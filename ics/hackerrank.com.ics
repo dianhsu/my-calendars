@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//My calendar product//mxm.dk//
+BEGIN:VEVENT
+SUMMARY:Oracle OCI Hack Day Challenge
+DTEND;VALUE=DATE-TIME:20220915T120000Z
+DESCRIPTION:https://hackerrank.com/contests/hackathon-oci
+DSTART:2022-09-15 04:00:00+00:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ServiceNow AMS Code to Win
+DTEND;VALUE=DATE-TIME:20221021T213000Z
+DESCRIPTION:https://hackerrank.com/contests/servicenow-ams-code-to-win
+DSTART:2022-10-21 13:30:00+00:00
+END:VEVENT
+END:VCALENDAR

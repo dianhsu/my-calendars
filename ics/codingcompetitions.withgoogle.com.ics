@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//My calendar product//mxm.dk//
+BEGIN:VEVENT
+SUMMARY:Kick Start Registration Closes
+DTEND;VALUE=DATE-TIME:20221113T000000Z
+DESCRIPTION:https://codingcompetitions.withgoogle.com/
+DSTART:2022-11-12 00:00:00+00:00
+END:VEVENT
+END:VCALENDAR

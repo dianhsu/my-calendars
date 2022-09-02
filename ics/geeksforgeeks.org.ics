@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//My calendar product//mxm.dk//
+BEGIN:VEVENT
+SUMMARY:Interview Series - 66
+DTEND;VALUE=DATE-TIME:20220904T150000Z
+DESCRIPTION:https://practice.geeksforgeeks.org/contest/interview-series-66
+ /
+DSTART:2022-09-04 13:30:00+00:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GATE CS All India Scholarship Test 6.0
+DTEND;VALUE=DATE-TIME:20220911T182900Z
+DESCRIPTION:https://practice.geeksforgeeks.org/contest/gate-cs-all-india-s
+ cholarship-test-50-3606/
+DSTART:2022-09-09 18:30:00+00:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Job-A-Thon 13 Hiring Challenge
+DTEND;VALUE=DATE-TIME:20220921T170000Z
+DESCRIPTION:https://practice.geeksforgeeks.org/contest/job-a-thon-13-hirin
+ g-challenge/
+DSTART:2022-09-21 14:30:00+00:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bi-Wizard School Coding Tournament 7.0
+DTEND;VALUE=DATE-TIME:20220926T140000Z
+DESCRIPTION:https://practice.geeksforgeeks.org/contest/bi-wizard-school-co
+ ding-tournament-70/
+DSTART:2022-09-26 12:30:00+00:00
+END:VEVENT
+END:VCALENDAR

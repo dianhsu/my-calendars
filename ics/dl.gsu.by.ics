@@ -1,0 +1,88 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//My calendar product//mxm.dk//
+BEGIN:VEVENT
+SUMMARY:Программирование - профессионалы (к
+ ом. 2022)
+DTEND;VALUE=DATE-TIME:20220904T110000Z
+DESCRIPTION:http://dl.gsu.by/LC.jsp?Type=-1&lng=ru
+DSTART:2022-09-04 06:00:00+00:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование - профессионалы (к
+ ом. 2022)
+DTEND;VALUE=DATE-TIME:20220911T110000Z
+DESCRIPTION:http://dl.gsu.by/LC.jsp?Type=-1&lng=ru
+DSTART:2022-09-11 06:00:00+00:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование - профессионалы (к
+ ом. 2022)
+DTEND;VALUE=DATE-TIME:20220918T110000Z
+DESCRIPTION:http://dl.gsu.by/LC.jsp?Type=-1&lng=ru
+DSTART:2022-09-18 06:00:00+00:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование - профессионалы (к
+ ом. 2022)
+DTEND;VALUE=DATE-TIME:20220925T110000Z
+DESCRIPTION:http://dl.gsu.by/LC.jsp?Type=-1&lng=ru
+DSTART:2022-09-25 06:00:00+00:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование - профессионалы (к
+ ом. 2022)
+DTEND;VALUE=DATE-TIME:20221002T110000Z
+DESCRIPTION:http://dl.gsu.by/LC.jsp?Type=-1&lng=ru
+DSTART:2022-10-02 06:00:00+00:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование - профессионалы (к
+ ом. 2022)
+DTEND;VALUE=DATE-TIME:20221009T110000Z
+DESCRIPTION:http://dl.gsu.by/LC.jsp?Type=-1&lng=ru
+DSTART:2022-10-09 06:00:00+00:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование - профессионалы (к
+ ом. 2022)
+DTEND;VALUE=DATE-TIME:20221016T110000Z
+DESCRIPTION:http://dl.gsu.by/LC.jsp?Type=-1&lng=ru
+DSTART:2022-10-16 06:00:00+00:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование - профессионалы (к
+ ом. 2022)
+DTEND;VALUE=DATE-TIME:20221023T110000Z
+DESCRIPTION:http://dl.gsu.by/LC.jsp?Type=-1&lng=ru
+DSTART:2022-10-23 06:00:00+00:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование - профессионалы (к
+ ом. 2022)
+DTEND;VALUE=DATE-TIME:20221030T110000Z
+DESCRIPTION:http://dl.gsu.by/LC.jsp?Type=-1&lng=ru
+DSTART:2022-10-30 06:00:00+00:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование - профессионалы (к
+ ом. 2022)
+DTEND;VALUE=DATE-TIME:20221106T110000Z
+DESCRIPTION:http://dl.gsu.by/LC.jsp?Type=-1&lng=ru
+DSTART:2022-11-06 06:00:00+00:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование - профессионалы (к
+ ом. 2022)
+DTEND;VALUE=DATE-TIME:20221113T110000Z
+DESCRIPTION:http://dl.gsu.by/LC.jsp?Type=-1&lng=ru
+DSTART:2022-11-13 06:00:00+00:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование - профессионалы (к
+ ом. 2022)
+DTEND;VALUE=DATE-TIME:20221120T110000Z
+DESCRIPTION:http://dl.gsu.by/LC.jsp?Type=-1&lng=ru
+DSTART:2022-11-20 06:00:00+00:00
+END:VEVENT
+END:VCALENDAR

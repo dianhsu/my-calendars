@@ -1,0 +1,62 @@
+import pytz
+import requests
+from bs4 import BeautifulSoup
+import traceback
+import os
+from datetime import datetime, timedelta
+from icalendar import Calendar, Event
+
+
+def run():
+    url = 'https://clist.by'
+
+    try:
+        res = requests.get(url)
+        soup = BeautifulSoup(res.text, 'lxml')
+        calendars = {}
+        for item in soup.select("#list-view #contests .contest"):
+            start_time = datetime.strptime(item.select(".start-time a")[0].attrs['href'][58:71], '%Y%m%dT%H%M').replace(
+                tzinfo=pytz.utc)
+
+            duration = item.select(".duration")[0].string
+            if duration.endswith('days'):
+                end_time = timedelta(days=int(duration.split(' ')[0])) + start_time
+            elif duration.endswith('months'):
+                continue
+            elif duration.endswith('years'):
+                continue
+            else:
+                tmp = duration.split(':')
+                minutes = 0
+                for it in tmp:
+                    minutes = minutes * 60 + int(it)
+                end_time = timedelta(minutes=minutes) + start_time
+            title = item.select('.event .title_search')[0].string
+            link = item.select('.event .title_search')[0].attrs['href']
+            target = item.select('.event .resource a small')[0].string
+            target = target.replace('/', '_')
+            if calendars.get(target, None) is None:
+                calendars[target] = []
+            calendars[target].append({
+                'title': title,
+                'link': link,
+                'start_time': start_time,
+                'end_time': end_time,
+                'target': target
+            })
+
+        for key in calendars.keys():
+            cal = Calendar()
+            cal.add('prodid', '-//My calendar product//mxm.dk//')
+            cal.add('version', '2.0')
+            for item in calendars[key]:
+                event = Event()
+                event.add('summary', item['title'])
+                event.add('dstart', item['start_time'])
+                event.add('dtend', item['end_time'])
+                event.add('description', item['link'])
+                cal.add_component(event)
+            with open(os.path.join('ics', f'{key}.ics'), 'wb') as f:
+                f.write(cal.to_ical())
+    except:
+        traceback.print_exc()

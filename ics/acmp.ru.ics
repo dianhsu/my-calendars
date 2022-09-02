@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//My calendar product//mxm.dk//
+BEGIN:VEVENT
+SUMMARY:Пробный тур личной олимпиады
+DTEND;VALUE=DATE-TIME:20220911T150000Z
+DESCRIPTION:https://acmp.ru/asp/champ/index.asp?main=stage_info&id_stage=4
+ 2414
+DSTART:2022-09-11 05:00:00+00:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Пробный тур командной олимпиады
+DTEND;VALUE=DATE-TIME:20220918T150000Z
+DESCRIPTION:https://acmp.ru/asp/champ/index.asp?main=stage_info&id_stage=4
+ 2415
+DSTART:2022-09-18 05:00:00+00:00
+END:VEVENT
+END:VCALENDAR

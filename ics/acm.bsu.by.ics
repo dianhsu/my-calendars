@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//My calendar product//mxm.dk//
+BEGIN:VEVENT
+SUMMARY:iRunner Challenge 2022 September powered by Huawei [acm.bsu.by/eve
+ nts/irunner2022ind09]
+DTEND;VALUE=DATE-TIME:20220912T080000Z
+DESCRIPTION:https://acm.bsu.by/contests/186/standings/
+DSTART:2022-09-05 08:00:00+00:00
+END:VEVENT
+END:VCALENDAR

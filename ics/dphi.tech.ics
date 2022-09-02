@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//My calendar product//mxm.dk//
+BEGIN:VEVENT
+SUMMARY:Juniper Networks Global AI Challenge
+DTEND;VALUE=DATE-TIME:20220922T150000Z
+DESCRIPTION:https://dphi.tech/challenges/juniper-networks-global-ai-challe
+ nge/286/
+DSTART:2022-09-09 15:00:00+00:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Data Sprint 88 - Abalone Age Prediction
+DTEND;VALUE=DATE-TIME:20220905T153000Z
+DESCRIPTION:https://dphi.tech/challenges/data-sprint-88-abalone-age-predic
+ tion/256/
+DSTART:2022-09-02 15:30:00+00:00
+END:VEVENT
+END:VCALENDAR

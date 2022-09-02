@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//My calendar product//mxm.dk//
+BEGIN:VEVENT
+SUMMARY:Codestudio Weekend Contest 37
+DTEND;VALUE=DATE-TIME:20220902T170000Z
+DESCRIPTION:https://www.codingninjas.com/codestudio/contests/codestudio-we
+ ekend-contest-37
+DSTART:2022-09-02 15:30:00+00:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scholarship Test 7 - 8th September 2022
+DTEND;VALUE=DATE-TIME:20220908T173000Z
+DESCRIPTION:https://www.codingninjas.com/codestudio/contests/scholarship-t
+ est-7-8th-september-2022
+DSTART:2022-09-07 14:30:00+00:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Codestudio Beginner Contest 16
+DTEND;VALUE=DATE-TIME:20220907T170000Z
+DESCRIPTION:https://www.codingninjas.com/codestudio/contests/codestudio-be
+ ginner-contest-16
+DSTART:2022-09-07 15:30:00+00:00
+END:VEVENT
+END:VCALENDAR
