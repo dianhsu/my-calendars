@@ -2,7 +2,7 @@ name: Auto Update Calendar
 
 on:
   schedule:
-    - cron: "30 * * * *"
+    - cron: "*/5 * * * *"
   push:
 
 jobs:
@@ -26,3 +26,13 @@ jobs:
         run: |
           poetry install
           poetry run python main.py
+      - name: Setup Git Config
+        run: |
+          git config --local user.email "xudian.cn@gmail.com"	
+          git config --local user.name "dianhsu"	
+          git add ics/	
+          git commit -m "GitHub Action Update Calendar" -a
+      - name: Push changes	
+        uses: ad-m/github-push-action@master	
+        with:	
+          github_token: ${{ secrets.GITHUB_TOKEN }}
