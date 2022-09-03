@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Google Inc//Google Calendar 70.9054//EN
+PRODID:-//My calendar product//dianhsu.com//
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:cups.online
@@ -10,12 +10,15 @@ SUMMARY:Всероссийская олимпиада по ИИ - 2022 [ai
  ]. Тренировочный этап
 DTSTART;VALUE=DATE-TIME:20220925T200000Z
 DTEND;VALUE=DATE-TIME:20221220T200000Z
+UID:ВсероссийскаяолимпиадапоИИ-2022[ai].Трен
+ ировочныйэтап@dianhsu.com
 DESCRIPTION:https://cups.online/rounds/721
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CodeRoyale - 2022 [ai]. Sandbox
 DTSTART;VALUE=DATE-TIME:20221231T205900Z
 DTEND;VALUE=DATE-TIME:20230626T205900Z
+UID:CodeRoyale-2022[ai].Sandbox@dianhsu.com
 DESCRIPTION:https://clist.by/standings/coderoyale-2022-ai-sandbox-36072795
  /
 END:VEVENT
@@ -24,30 +27,36 @@ SUMMARY:Всероссийская олимпиада по ИИ - 2022 [ai
  ]. Отборочный этап
 DTSTART;VALUE=DATE-TIME:20220926T060000Z
 DTEND;VALUE=DATE-TIME:20220930T060000Z
+UID:ВсероссийскаяолимпиадапоИИ-2022[ai].Отбо
+ рочныйэтап@dianhsu.com
 DESCRIPTION:https://cups.online/rounds/724
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Love to solve [design]. Биология
 DTSTART;VALUE=DATE-TIME:20220928T060000Z
 DTEND;VALUE=DATE-TIME:20221005T060000Z
+UID:Lovetosolve[design].Биология@dianhsu.com
 DESCRIPTION:https://cups.online/rounds/733
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Love to solve [design]. Информатика
 DTSTART;VALUE=DATE-TIME:20220928T060000Z
 DTEND;VALUE=DATE-TIME:20221005T060000Z
+UID:Lovetosolve[design].Информатика@dianhsu.com
 DESCRIPTION:https://cups.online/rounds/734
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Love to solve [design]. Математика
 DTSTART;VALUE=DATE-TIME:20220928T060000Z
 DTEND;VALUE=DATE-TIME:20221005T060000Z
+UID:Lovetosolve[design].Математика@dianhsu.com
 DESCRIPTION:https://cups.online/rounds/732
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Love to solve [design]. Физика
 DTSTART;VALUE=DATE-TIME:20220928T060000Z
 DTEND;VALUE=DATE-TIME:20221005T060000Z
+UID:Lovetosolve[design].Физика@dianhsu.com
 DESCRIPTION:https://cups.online/rounds/731
 END:VEVENT
 BEGIN:VEVENT
@@ -55,6 +64,8 @@ SUMMARY:Всероссийская олимпиада по ИИ - 2022 [ai
  ]. Основной этап
 DTSTART;VALUE=DATE-TIME:20221010T070000Z
 DTEND;VALUE=DATE-TIME:20221014T070000Z
+UID:ВсероссийскаяолимпиадапоИИ-2022[ai].Осно
+ внойэтап@dianhsu.com
 DESCRIPTION:https://cups.online/rounds/725
 END:VEVENT
 BEGIN:VEVENT
@@ -62,6 +73,8 @@ SUMMARY:Всероссийская олимпиада по ИИ - 2022 [ai
  ]. Заключительный этап
 DTSTART;VALUE=DATE-TIME:20221107T080000Z
 DTEND;VALUE=DATE-TIME:20221117T080000Z
+UID:ВсероссийскаяолимпиадапоИИ-2022[ai].Закл
+ ючительныйэтап@dianhsu.com
 DESCRIPTION:https://cups.online/rounds/726
 END:VEVENT
 END:VCALENDAR

@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Google Inc//Google Calendar 70.9054//EN
+PRODID:-//My calendar product//dianhsu.com//
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:dl.gsu.by
@@ -10,6 +10,8 @@ SUMMARY:Программирование - профессионалы (к
  ом. 2022)
 DTSTART;VALUE=DATE-TIME:20220904T060000Z
 DTEND;VALUE=DATE-TIME:20220904T110000Z
+UID:Программирование-профессионалы(ком.202
+ 2)@dianhsu.com
 DESCRIPTION:http://dl.gsu.by/LC.jsp?Type=-1&lng=ru
 END:VEVENT
 BEGIN:VEVENT
@@ -17,6 +19,8 @@ SUMMARY:Программирование - профессионалы (к
  ом. 2022)
 DTSTART;VALUE=DATE-TIME:20220911T060000Z
 DTEND;VALUE=DATE-TIME:20220911T110000Z
+UID:Программирование-профессионалы(ком.202
+ 2)@dianhsu.com
 DESCRIPTION:http://dl.gsu.by/LC.jsp?Type=-1&lng=ru
 END:VEVENT
 BEGIN:VEVENT
@@ -24,6 +28,8 @@ SUMMARY:Программирование - профессионалы (к
  ом. 2022)
 DTSTART;VALUE=DATE-TIME:20220918T060000Z
 DTEND;VALUE=DATE-TIME:20220918T110000Z
+UID:Программирование-профессионалы(ком.202
+ 2)@dianhsu.com
 DESCRIPTION:http://dl.gsu.by/LC.jsp?Type=-1&lng=ru
 END:VEVENT
 BEGIN:VEVENT
@@ -31,6 +37,8 @@ SUMMARY:Программирование - профессионалы (к
  ом. 2022)
 DTSTART;VALUE=DATE-TIME:20220925T060000Z
 DTEND;VALUE=DATE-TIME:20220925T110000Z
+UID:Программирование-профессионалы(ком.202
+ 2)@dianhsu.com
 DESCRIPTION:http://dl.gsu.by/LC.jsp?Type=-1&lng=ru
 END:VEVENT
 BEGIN:VEVENT
@@ -38,6 +46,8 @@ SUMMARY:Программирование - профессионалы (к
  ом. 2022)
 DTSTART;VALUE=DATE-TIME:20221002T060000Z
 DTEND;VALUE=DATE-TIME:20221002T110000Z
+UID:Программирование-профессионалы(ком.202
+ 2)@dianhsu.com
 DESCRIPTION:http://dl.gsu.by/LC.jsp?Type=-1&lng=ru
 END:VEVENT
 BEGIN:VEVENT
@@ -45,6 +55,8 @@ SUMMARY:Программирование - профессионалы (к
  ом. 2022)
 DTSTART;VALUE=DATE-TIME:20221009T060000Z
 DTEND;VALUE=DATE-TIME:20221009T110000Z
+UID:Программирование-профессионалы(ком.202
+ 2)@dianhsu.com
 DESCRIPTION:http://dl.gsu.by/LC.jsp?Type=-1&lng=ru
 END:VEVENT
 BEGIN:VEVENT
@@ -52,6 +64,8 @@ SUMMARY:Программирование - профессионалы (к
  ом. 2022)
 DTSTART;VALUE=DATE-TIME:20221016T060000Z
 DTEND;VALUE=DATE-TIME:20221016T110000Z
+UID:Программирование-профессионалы(ком.202
+ 2)@dianhsu.com
 DESCRIPTION:http://dl.gsu.by/LC.jsp?Type=-1&lng=ru
 END:VEVENT
 BEGIN:VEVENT
@@ -59,6 +73,8 @@ SUMMARY:Программирование - профессионалы (к
  ом. 2022)
 DTSTART;VALUE=DATE-TIME:20221023T060000Z
 DTEND;VALUE=DATE-TIME:20221023T110000Z
+UID:Программирование-профессионалы(ком.202
+ 2)@dianhsu.com
 DESCRIPTION:http://dl.gsu.by/LC.jsp?Type=-1&lng=ru
 END:VEVENT
 BEGIN:VEVENT
@@ -66,6 +82,8 @@ SUMMARY:Программирование - профессионалы (к
  ом. 2022)
 DTSTART;VALUE=DATE-TIME:20221030T060000Z
 DTEND;VALUE=DATE-TIME:20221030T110000Z
+UID:Программирование-профессионалы(ком.202
+ 2)@dianhsu.com
 DESCRIPTION:http://dl.gsu.by/LC.jsp?Type=-1&lng=ru
 END:VEVENT
 BEGIN:VEVENT
@@ -73,6 +91,8 @@ SUMMARY:Программирование - профессионалы (к
  ом. 2022)
 DTSTART;VALUE=DATE-TIME:20221106T060000Z
 DTEND;VALUE=DATE-TIME:20221106T110000Z
+UID:Программирование-профессионалы(ком.202
+ 2)@dianhsu.com
 DESCRIPTION:http://dl.gsu.by/LC.jsp?Type=-1&lng=ru
 END:VEVENT
 BEGIN:VEVENT
@@ -80,6 +100,8 @@ SUMMARY:Программирование - профессионалы (к
  ом. 2022)
 DTSTART;VALUE=DATE-TIME:20221113T060000Z
 DTEND;VALUE=DATE-TIME:20221113T110000Z
+UID:Программирование-профессионалы(ком.202
+ 2)@dianhsu.com
 DESCRIPTION:http://dl.gsu.by/LC.jsp?Type=-1&lng=ru
 END:VEVENT
 BEGIN:VEVENT
@@ -87,6 +109,8 @@ SUMMARY:Программирование - профессионалы (к
  ом. 2022)
 DTSTART;VALUE=DATE-TIME:20221120T060000Z
 DTEND;VALUE=DATE-TIME:20221120T110000Z
+UID:Программирование-профессионалы(ком.202
+ 2)@dianhsu.com
 DESCRIPTION:http://dl.gsu.by/LC.jsp?Type=-1&lng=ru
 END:VEVENT
 END:VCALENDAR

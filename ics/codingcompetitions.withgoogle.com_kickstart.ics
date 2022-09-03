@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Google Inc//Google Calendar 70.9054//EN
+PRODID:-//My calendar product//dianhsu.com//
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:codingcompetitions.withgoogle.com_kickstart
@@ -9,6 +9,7 @@ BEGIN:VEVENT
 SUMMARY:Kick Start Round F
 DTSTART;VALUE=DATE-TIME:20220918T170000Z
 DTEND;VALUE=DATE-TIME:20220918T200000Z
+UID:KickStartRoundF@dianhsu.com
 DESCRIPTION:https://codingcompetitions.withgoogle.com/kickstart/round/0000
  0000008cb409
 END:VEVENT
@@ -16,6 +17,7 @@ BEGIN:VEVENT
 SUMMARY:Kick Start Round G
 DTSTART;VALUE=DATE-TIME:20221015T120000Z
 DTEND;VALUE=DATE-TIME:20221015T150000Z
+UID:KickStartRoundG@dianhsu.com
 DESCRIPTION:https://codingcompetitions.withgoogle.com/kickstart/round/0000
  0000008cb2e1
 END:VEVENT
@@ -23,6 +25,7 @@ BEGIN:VEVENT
 SUMMARY:Kick Start Round H
 DTSTART;VALUE=DATE-TIME:20221112T030000Z
 DTEND;VALUE=DATE-TIME:20221112T060000Z
+UID:KickStartRoundH@dianhsu.com
 DESCRIPTION:https://codingcompetitions.withgoogle.com/kickstart/round/0000
  0000008cb1b6
 END:VEVENT

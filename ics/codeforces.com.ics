@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Google Inc//Google Calendar 70.9054//EN
+PRODID:-//My calendar product//dianhsu.com//
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:codeforces.com
@@ -10,6 +10,8 @@ SUMMARY:COMPFEST 14 - Preliminary Online Mirror (Unrated\, ICPC Rules\, Te
  ams Preferred)
 DTSTART;VALUE=DATE-TIME:20220904T133500Z
 DTEND;VALUE=DATE-TIME:20220904T183500Z
+UID:COMPFEST14-PreliminaryOnlineMirror(Unrated\,ICPCRules\,TeamsPreferred)
+ @dianhsu.com
 DESCRIPTION:http://codeforces.com/contests/1725
 END:VEVENT
 BEGIN:VEVENT
@@ -17,24 +19,29 @@ SUMMARY:Codeforces Round #819 (Div. 1 + Div. 2) and Grimoire of Code Annua
  l Contest 2022
 DTSTART;VALUE=DATE-TIME:20220906T143500Z
 DTEND;VALUE=DATE-TIME:20220906T163500Z
+UID:CodeforcesRound#819(Div.1+Div.2)andGrimoireofCodeAnnualContest2022@dia
+ nhsu.com
 DESCRIPTION:http://codeforces.com/contests/1726
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Educational Codeforces Round 135 (Rated for Div. 2)
 DTSTART;VALUE=DATE-TIME:20220908T143500Z
 DTEND;VALUE=DATE-TIME:20220908T163500Z
+UID:EducationalCodeforcesRound135(RatedforDiv.2)@dianhsu.com
 DESCRIPTION:http://codeforces.com/contests/1728
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ICPC 2022 Online Challenge powered by HUAWEI - Problem 1
 DTSTART;VALUE=DATE-TIME:20220915T000000Z
 DTEND;VALUE=DATE-TIME:20220930T000000Z
+UID:ICPC2022OnlineChallengepoweredbyHUAWEI-Problem1@dianhsu.com
 DESCRIPTION:http://codeforces.com/contests/1723
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ICPC 2022 Online Challenge powered by HUAWEI - Problem 2
 DTSTART;VALUE=DATE-TIME:20220915T000000Z
 DTEND;VALUE=DATE-TIME:20220930T000000Z
+UID:ICPC2022OnlineChallengepoweredbyHUAWEI-Problem2@dianhsu.com
 DESCRIPTION:http://codeforces.com/contests/1724
 END:VEVENT
 END:VCALENDAR

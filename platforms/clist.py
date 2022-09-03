@@ -48,7 +48,7 @@ def run():
 
         for key in calendars.keys():
             cal = Calendar()
-            cal.add('prodid', '-//Google Inc//Google Calendar 70.9054//EN')
+            cal.add('prodid', '-//My calendar product//dianhsu.com//')
             cal.add('version', '2.0')
             cal.add('X-WR-TIMEZONE', 'UTC')
             cal.add('X-WR-CALNAME', key)
@@ -60,6 +60,7 @@ def run():
                 event.add('dtstart', item['start_time'])
                 event.add('dtend', item['end_time'])
                 event.add('description', item['link'])
+                event.add('uid', str(item['title']).replace(' ', '') + '@dianhsu.com')
                 cal.add_component(event)
             with open(os.path.join('ics', f'{key}.ics'), 'wb') as f:
                 f.write(cal.to_ical())

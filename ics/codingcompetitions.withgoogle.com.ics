@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Google Inc//Google Calendar 70.9054//EN
+PRODID:-//My calendar product//dianhsu.com//
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:codingcompetitions.withgoogle.com
@@ -9,6 +9,7 @@ BEGIN:VEVENT
 SUMMARY:Kick Start Registration Closes
 DTSTART;VALUE=DATE-TIME:20221112T000000Z
 DTEND;VALUE=DATE-TIME:20221113T000000Z
+UID:KickStartRegistrationCloses@dianhsu.com
 DESCRIPTION:https://codingcompetitions.withgoogle.com/
 END:VEVENT
 END:VCALENDAR

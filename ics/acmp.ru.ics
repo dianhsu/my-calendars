@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Google Inc//Google Calendar 70.9054//EN
+PRODID:-//My calendar product//dianhsu.com//
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:acmp.ru
@@ -9,6 +9,7 @@ BEGIN:VEVENT
 SUMMARY:Пробный тур личной олимпиады
 DTSTART;VALUE=DATE-TIME:20220911T050000Z
 DTEND;VALUE=DATE-TIME:20220911T150000Z
+UID:Пробныйтурличнойолимпиады@dianhsu.com
 DESCRIPTION:https://acmp.ru/asp/champ/index.asp?main=stage_info&id_stage=4
  2414
 END:VEVENT
@@ -16,6 +17,7 @@ BEGIN:VEVENT
 SUMMARY:Пробный тур командной олимпиады
 DTSTART;VALUE=DATE-TIME:20220918T050000Z
 DTEND;VALUE=DATE-TIME:20220918T150000Z
+UID:Пробныйтуркоманднойолимпиады@dianhsu.com
 DESCRIPTION:https://acmp.ru/asp/champ/index.asp?main=stage_info&id_stage=4
  2415
 END:VEVENT

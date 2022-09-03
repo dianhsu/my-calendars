@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Google Inc//Google Calendar 70.9054//EN
+PRODID:-//My calendar product//dianhsu.com//
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:dphi.tech
@@ -9,6 +9,7 @@ BEGIN:VEVENT
 SUMMARY:Data Sprint 88 - Abalone Age Prediction
 DTSTART;VALUE=DATE-TIME:20220905T153000Z
 DTEND;VALUE=DATE-TIME:20220908T153000Z
+UID:DataSprint88-AbaloneAgePrediction@dianhsu.com
 DESCRIPTION:https://dphi.tech/challenges/data-sprint-88-abalone-age-predic
  tion/256/
 END:VEVENT
@@ -16,6 +17,7 @@ BEGIN:VEVENT
 SUMMARY:Juniper Networks Global AI Challenge
 DTSTART;VALUE=DATE-TIME:20220909T150000Z
 DTEND;VALUE=DATE-TIME:20220922T150000Z
+UID:JuniperNetworksGlobalAIChallenge@dianhsu.com
 DESCRIPTION:https://dphi.tech/challenges/juniper-networks-global-ai-challe
  nge/286/
 END:VEVENT

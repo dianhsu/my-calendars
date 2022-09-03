@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Google Inc//Google Calendar 70.9054//EN
+PRODID:-//My calendar product//dianhsu.com//
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:acm.bsu.by
@@ -10,6 +10,8 @@ SUMMARY:iRunner Challenge 2022 September powered by Huawei [acm.bsu.by/eve
  nts/irunner2022ind09]
 DTSTART;VALUE=DATE-TIME:20220905T080000Z
 DTEND;VALUE=DATE-TIME:20220912T080000Z
+UID:iRunnerChallenge2022SeptemberpoweredbyHuawei[acm.bsu.by/events/irunner
+ 2022ind09]@dianhsu.com
 DESCRIPTION:https://acm.bsu.by/contests/186/standings/
 END:VEVENT
 END:VCALENDAR

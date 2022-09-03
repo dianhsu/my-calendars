@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Google Inc//Google Calendar 70.9054//EN
+PRODID:-//My calendar product//dianhsu.com//
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:facebook.com_hackercup
@@ -9,6 +9,7 @@ BEGIN:VEVENT
 SUMMARY:Round 1 2022
 DTSTART;VALUE=DATE-TIME:20220910T170000Z
 DTEND;VALUE=DATE-TIME:20220911T170000Z
+UID:Round12022@dianhsu.com
 DESCRIPTION:https://www.facebook.com/codingcompetitions/hacker-cup/2022/ro
  und-1/scoreboard
 END:VEVENT
@@ -16,6 +17,7 @@ BEGIN:VEVENT
 SUMMARY:Round 2 2022
 DTSTART;VALUE=DATE-TIME:20220924T170000Z
 DTEND;VALUE=DATE-TIME:20220924T200000Z
+UID:Round22022@dianhsu.com
 DESCRIPTION:https://www.facebook.com/codingcompetitions/hacker-cup/2022/ro
  und-2/scoreboard
 END:VEVENT
@@ -23,6 +25,7 @@ BEGIN:VEVENT
 SUMMARY:Round 3 2022
 DTSTART;VALUE=DATE-TIME:20221008T170000Z
 DTEND;VALUE=DATE-TIME:20221008T200000Z
+UID:Round32022@dianhsu.com
 DESCRIPTION:https://www.facebook.com/codingcompetitions/hacker-cup/2022/ro
  und-3/scoreboard
 END:VEVENT

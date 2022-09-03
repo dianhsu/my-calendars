@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Google Inc//Google Calendar 70.9054//EN
+PRODID:-//My calendar product//dianhsu.com//
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:my.newtonschool.co
@@ -9,6 +9,7 @@ BEGIN:VEVENT
 SUMMARY:Newton's coding challenge September 2022
 DTSTART;VALUE=DATE-TIME:20220928T153000Z
 DTEND;VALUE=DATE-TIME:20220928T180000Z
+UID:Newton'scodingchallengeSeptember2022@dianhsu.com
 DESCRIPTION:https://my.newtonschool.co/course/qi34sap52pg9/assignment/fj6i
  qjdluytv/dashboard/
 END:VEVENT
@@ -16,6 +17,7 @@ BEGIN:VEVENT
 SUMMARY:Newton's Grand Coding Contest 2022
 DTSTART;VALUE=DATE-TIME:20221216T153000Z
 DTEND;VALUE=DATE-TIME:20221216T183000Z
+UID:Newton'sGrandCodingContest2022@dianhsu.com
 DESCRIPTION:https://my.newtonschool.co/course/jovbcci1trlf/assignment/jzvs
  koymtdtu/dashboard/
 END:VEVENT
