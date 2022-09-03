@@ -2,7 +2,7 @@ name: Auto Update Calendar
 
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "0 */2 * * *"
   push:
 
 jobs:
