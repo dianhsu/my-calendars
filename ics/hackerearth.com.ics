@@ -1,129 +1,133 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//My calendar product//mxm.dk//
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:hackerearth.com
+X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 SUMMARY:The Very First Daisi™ Hackathon. Hackathon. Online
+DTSTART;VALUE=DATE-TIME:20220905T065900Z
 DTEND;VALUE=DATE-TIME:20221028T065900Z
 DESCRIPTION:https://www.hackerearth.com/challenges/hackathon/the-very-firs
  t-daisitm-hackathon/
-DSTART:2022-09-05 06:59:00+00:00
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:All Things e-Commerce - GeTS Hackathon. Idea Submission Phase. Onl
  ine
+DTSTART;VALUE=DATE-TIME:20220911T182900Z
 DTEND;VALUE=DATE-TIME:20221011T182900Z
 DESCRIPTION:https://www.hackerearth.com/challenges/hackathon/get-hack/
-DSTART:2022-09-11 18:29:00+00:00
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Zoho Creator Build an App Challenge. Hackathon. Prototype Submissi
  on Phase. Online
+DTSTART;VALUE=DATE-TIME:20220911T182900Z
 DTEND;VALUE=DATE-TIME:20221014T182900Z
 DESCRIPTION:https://www.hackerearth.com/challenges/hackathon/zoho-creator-
  build-an-app-challenge/
-DSTART:2022-09-11 18:29:00+00:00
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Quantum Science and Technology Hackathon 2022. Registration and Id
  ea Submission. Online
+DTSTART;VALUE=DATE-TIME:20220915T182900Z
 DTEND;VALUE=DATE-TIME:20221016T182900Z
 DESCRIPTION:https://quantum-science-and-technology-hackathon-2022.hackerea
  rth.com/
-DSTART:2022-09-15 18:29:00+00:00
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Xiaomi Ode2Code 2.0. Hackathon. Prototype Submission Phase. Online
+DTSTART;VALUE=DATE-TIME:20220918T182900Z
 DTEND;VALUE=DATE-TIME:20221010T182900Z
 DESCRIPTION:https://www.hackerearth.com/challenges/hackathon/ode2code-20/
-DSTART:2022-09-18 18:29:00+00:00
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Web3athon. Project Submission phase. Online
+DTSTART;VALUE=DATE-TIME:20220920T045900Z
 DTEND;VALUE=DATE-TIME:20221023T045900Z
 DESCRIPTION:https://web3athon.hackerearth.com/
-DSTART:2022-09-20 04:59:00+00:00
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Shell.ai Hackathon. Competitive
+DTSTART;VALUE=DATE-TIME:20221002T182500Z
 DTEND;VALUE=DATE-TIME:20221101T182500Z
 DESCRIPTION:https://www.hackerearth.com/challenges/competitive/shellai-hac
  kathon-2022/
-DSTART:2022-10-02 18:25:00+00:00
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Urbanize Away. Hackathon. Hackathon. Online
+DTSTART;VALUE=DATE-TIME:20221015T163000Z
 DTEND;VALUE=DATE-TIME:20221129T163000Z
 DESCRIPTION:https://www.hackerearth.com/challenges/hackathon/Urbanize-Away
  /
-DSTART:2022-10-15 16:30:00+00:00
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Build With Celo Hackathon '22. Polished Submission Phase. Online
+DTSTART;VALUE=DATE-TIME:20221119T075900Z
 DTEND;VALUE=DATE-TIME:20230211T075900Z
 DESCRIPTION:https://build-with-celo.hackerearth.com/
-DSTART:2022-11-19 07:59:00+00:00
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:September Easy 22. Competitive. Rated contest
+DTSTART;VALUE=DATE-TIME:20220903T040000Z
 DTEND;VALUE=DATE-TIME:20220903T070000Z
 DESCRIPTION:https://www.hackerearth.com/challenges/competitive/september-e
  asy-22/
-DSTART:2022-09-03 04:00:00+00:00
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hackathon MoMo 2022. Phase de soumission du prototype. Online
+DTSTART;VALUE=DATE-TIME:20220905T000000Z
 DTEND;VALUE=DATE-TIME:20220918T000000Z
 DESCRIPTION:https://momo2022fr.hackerearth.com/
-DSTART:2022-09-05 00:00:00+00:00
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MoMo Hackathon 2022. PROTOTYPE SUBMISSION PHASE. Online
+DTSTART;VALUE=DATE-TIME:20220905T000000Z
 DTEND;VALUE=DATE-TIME:20220918T000000Z
 DESCRIPTION:https://momo2022.hackerearth.com/
-DSTART:2022-09-05 00:00:00+00:00
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:IBM zStudent Contest. Hackathon. Contest. Online
+DTSTART;VALUE=DATE-TIME:20220914T040000Z
 DTEND;VALUE=DATE-TIME:20230101T040000Z
 DESCRIPTION:https://www.hackerearth.com/challenges/hackathon/ibm-z-student
  -contest-2022/
-DSTART:2022-09-14 04:00:00+00:00
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Great Learning Software Development & Engineering Admission Challe
  nge. Competitive
+DTSTART;VALUE=DATE-TIME:20220914T123000Z
 DTEND;VALUE=DATE-TIME:20221009T123000Z
 DESCRIPTION:https://www.hackerearth.com/challenges/competitive/great-learn
  ing-software-development-engineering-admission-challenge/
-DSTART:2022-09-14 12:30:00+00:00
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:​. Hackathon. Hackathon. Online
+DTSTART;VALUE=DATE-TIME:20220916T123000Z
 DTEND;VALUE=DATE-TIME:20221002T123000Z
 DESCRIPTION:https://www.hackerearth.com/challenges/hackathon/cheggs-hackat
  hon/
-DSTART:2022-09-16 12:30:00+00:00
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ballerina Coding Challenge. Competitive
+DTSTART;VALUE=DATE-TIME:20220921T230100Z
 DTEND;VALUE=DATE-TIME:20220924T225900Z
 DESCRIPTION:https://www.hackerearth.com/challenges/competitive/ballerina-c
  oding-challenge/
-DSTART:2022-09-21 23:01:00+00:00
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Quantum Science and Technology Hackathon 2022. Prototype Submissio
  n Phase. Online
+DTSTART;VALUE=DATE-TIME:20220929T043000Z
 DTEND;VALUE=DATE-TIME:20221029T043000Z
 DESCRIPTION:https://quantum-science-and-technology-hackathon-2022.hackerea
  rth.com/
-DSTART:2022-09-29 04:30:00+00:00
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:All Things e-Commerce - GeTS Hackathon. Prototype Submission Phase
  . Online
+DTSTART;VALUE=DATE-TIME:20221001T183000Z
 DTEND;VALUE=DATE-TIME:20221022T183000Z
 DESCRIPTION:https://www.hackerearth.com/challenges/hackathon/get-hack/
-DSTART:2022-10-01 18:30:00+00:00
 END:VEVENT
 END:VCALENDAR

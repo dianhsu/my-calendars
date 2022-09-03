@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 import traceback
 import os
 from datetime import datetime, timedelta
-from icalendar import Calendar, Event
+from icalendar import Calendar, Event, vDatetime
 
 
 def run():
@@ -20,7 +20,7 @@ def run():
 
             duration = item.select(".duration")[0].string
             if duration.endswith('days'):
-                end_time = timedelta(days=int(duration.split(' ')[0])) + start_time
+                end_time = start_time + timedelta(days=int(duration.split(' ')[0]))
             elif duration.endswith('months'):
                 continue
             elif duration.endswith('years'):
@@ -30,11 +30,12 @@ def run():
                 minutes = 0
                 for it in tmp:
                     minutes = minutes * 60 + int(it)
-                end_time = timedelta(minutes=minutes) + start_time
+                end_time = start_time + timedelta(minutes=minutes)
             title = item.select('.event .title_search')[0].string
             link = item.select('.event .title_search')[0].attrs['href']
             target = item.select('.event .resource a small')[0].string
             target = target.replace('/', '_')
+
             if calendars.get(target, None) is None:
                 calendars[target] = []
             calendars[target].append({
@@ -47,12 +48,19 @@ def run():
 
         for key in calendars.keys():
             cal = Calendar()
-            cal.add('prodid', '-//My calendar product//mxm.dk//')
+            cal.add('prodid', '-//Google Inc//Google Calendar 70.9054//EN')
             cal.add('version', '2.0')
+            cal.add('X-WR-TIMEZONE', 'UTC')
+            cal.add('X-WR-CALNAME', key)
+            cal.add('CALSCALE', 'GREGORIAN')
+            cal.add('method', 'PUBLISH')
             for item in calendars[key]:
+                # start_time = str(vDatetime(item['start_time']).to_ical())
+                # end_time = str(vDatetime(item['end_time']).to_ical())
+                print(start_time, end_time)
                 event = Event()
                 event.add('summary', item['title'])
-                event.add('dstart', item['start_time'])
+                event.add('dtstart', item['start_time'])
                 event.add('dtend', item['end_time'])
                 event.add('description', item['link'])
                 cal.add_component(event)
