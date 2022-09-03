@@ -6,6 +6,13 @@ METHOD:PUBLISH
 X-WR-CALNAME:hackerearth.com
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
+SUMMARY:September Easy 22. Competitive. Rated contest
+DTSTART;VALUE=DATE-TIME:20220903T070000Z
+DTEND;VALUE=DATE-TIME:20220903T100000Z
+DESCRIPTION:https://www.hackerearth.com/challenges/competitive/september-e
+ asy-22/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Very First Daisi™ Hackathon. Hackathon. Online
 DTSTART;VALUE=DATE-TIME:20220905T065900Z
 DTEND;VALUE=DATE-TIME:20221028T065900Z
@@ -66,13 +73,6 @@ SUMMARY:Build With Celo Hackathon '22. Polished Submission Phase. Online
 DTSTART;VALUE=DATE-TIME:20221119T075900Z
 DTEND;VALUE=DATE-TIME:20230211T075900Z
 DESCRIPTION:https://build-with-celo.hackerearth.com/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:September Easy 22. Competitive. Rated contest
-DTSTART;VALUE=DATE-TIME:20220903T040000Z
-DTEND;VALUE=DATE-TIME:20220903T070000Z
-DESCRIPTION:https://www.hackerearth.com/challenges/competitive/september-e
- asy-22/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hackathon MoMo 2022. Phase de soumission du prototype. Online
