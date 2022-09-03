@@ -55,9 +55,6 @@ def run():
             cal.add('CALSCALE', 'GREGORIAN')
             cal.add('method', 'PUBLISH')
             for item in calendars[key]:
-                # start_time = str(vDatetime(item['start_time']).to_ical())
-                # end_time = str(vDatetime(item['end_time']).to_ical())
-                print(start_time, end_time)
                 event = Event()
                 event.add('summary', item['title'])
                 event.add('dtstart', item['start_time'])
