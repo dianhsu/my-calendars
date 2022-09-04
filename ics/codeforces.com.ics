@@ -6,15 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:codeforces.com
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:COMPFEST 14 - Preliminary Online Mirror (Unrated\, ICPC Rules\, Te
- ams Preferred)
-DTSTART;VALUE=DATE-TIME:20220904T183500Z
-DTEND;VALUE=DATE-TIME:20220904T233500Z
-UID:COMPFEST14-PreliminaryOnlineMirror(Unrated\,ICPCRules\,TeamsPreferred)
- @dianhsu.com
-DESCRIPTION:http://codeforces.com/contests/1725
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Codeforces Round #819 (Div. 1 + Div. 2) and Grimoire of Code Annua
  l Contest 2022
 DTSTART;VALUE=DATE-TIME:20220906T143500Z
