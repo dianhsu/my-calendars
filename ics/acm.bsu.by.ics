@@ -8,8 +8,8 @@ X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 SUMMARY:iRunner Challenge 2022 September powered by Huawei [acm.bsu.by/eve
  nts/irunner2022ind09]
-DTSTART;VALUE=DATE-TIME:20220905T080000Z
-DTEND;VALUE=DATE-TIME:20220912T080000Z
+DTSTART;VALUE=DATE-TIME:20220912T170000Z
+DTEND;VALUE=DATE-TIME:20220919T170000Z
 UID:iRunnerChallenge2022SeptemberpoweredbyHuawei[acm.bsu.by/events/irunner
  2022ind09]@dianhsu.com
 DESCRIPTION:https://acm.bsu.by/contests/186/standings/
