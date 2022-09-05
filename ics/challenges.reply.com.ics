@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//My calendar product//dianhsu.com//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:challenges.reply.com
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Cybersecurity. R-Boy Clash of Multiverses
+DTSTART;VALUE=DATE-TIME:20221014T143000Z
+DTEND;VALUE=DATE-TIME:20221015T143000Z
+UID:Cybersecurity.R-BoyClashofMultiverses@dianhsu.com
+DESCRIPTION:https://challenges.reply.com/tamtamy/challenge/118/detail
+END:VEVENT
+END:VCALENDAR
