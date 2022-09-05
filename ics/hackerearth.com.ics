@@ -51,6 +51,20 @@ UID:XiaomiOde2Code2.0.Hackathon.PrototypeSubmissionPhase.Online@dianhsu.co
 DESCRIPTION:https://www.hackerearth.com/challenges/hackathon/ode2code-20/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hackathon MoMo 2022. Phase de soumission du prototype. Online
+DTSTART;VALUE=DATE-TIME:20220918T235900Z
+DTEND;VALUE=DATE-TIME:20221001T235900Z
+UID:HackathonMoMo2022.Phasedesoumissionduprototype.Online@dianhsu.com
+DESCRIPTION:https://momo2022fr.hackerearth.com/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MoMo Hackathon 2022. PROTOTYPE SUBMISSION PHASE. Online
+DTSTART;VALUE=DATE-TIME:20220918T235900Z
+DTEND;VALUE=DATE-TIME:20221001T235900Z
+UID:MoMoHackathon2022.PROTOTYPESUBMISSIONPHASE.Online@dianhsu.com
+DESCRIPTION:https://momo2022.hackerearth.com/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Web3athon. Project Submission phase. Online
 DTSTART;VALUE=DATE-TIME:20220920T045900Z
 DTEND;VALUE=DATE-TIME:20221023T045900Z
@@ -79,20 +93,6 @@ DTSTART;VALUE=DATE-TIME:20221119T075900Z
 DTEND;VALUE=DATE-TIME:20230211T075900Z
 UID:BuildWithCeloHackathon'22.PolishedSubmissionPhase.Online@dianhsu.com
 DESCRIPTION:https://build-with-celo.hackerearth.com/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hackathon MoMo 2022. Phase de soumission du prototype. Online
-DTSTART;VALUE=DATE-TIME:20220905T000000Z
-DTEND;VALUE=DATE-TIME:20220918T000000Z
-UID:HackathonMoMo2022.Phasedesoumissionduprototype.Online@dianhsu.com
-DESCRIPTION:https://momo2022fr.hackerearth.com/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MoMo Hackathon 2022. PROTOTYPE SUBMISSION PHASE. Online
-DTSTART;VALUE=DATE-TIME:20220905T000000Z
-DTEND;VALUE=DATE-TIME:20220918T000000Z
-UID:MoMoHackathon2022.PROTOTYPESUBMISSIONPHASE.Online@dianhsu.com
-DESCRIPTION:https://momo2022.hackerearth.com/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:IBM zStudent Contest. Hackathon. Contest. Online
