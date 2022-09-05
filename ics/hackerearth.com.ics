@@ -147,4 +147,12 @@ UID:AllThingse-Commerce-GeTSHackathon.PrototypeSubmissionPhase.Online@dian
  hsu.com
 DESCRIPTION:https://www.hackerearth.com/challenges/hackathon/get-hack/
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OPPO Inspiration Cup. Competitive
+DTSTART;VALUE=DATE-TIME:20221008T123000Z
+DTEND;VALUE=DATE-TIME:20221008T124500Z
+UID:OPPOInspirationCup.Competitive@dianhsu.com
+DESCRIPTION:https://www.hackerearth.com/challenges/competitive/oppo-inspir
+ ation-cup/
+END:VEVENT
 END:VCALENDAR
