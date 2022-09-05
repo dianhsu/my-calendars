@@ -14,6 +14,14 @@ DESCRIPTION:https://practice.geeksforgeeks.org/contest/gate-cs-all-india-s
  cholarship-test-50-3606/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Interview Series - 67
+DTSTART;VALUE=DATE-TIME:20220911T133000Z
+DTEND;VALUE=DATE-TIME:20220911T150000Z
+UID:InterviewSeries-67@dianhsu.com
+DESCRIPTION:https://practice.geeksforgeeks.org/contest/interview-series-67
+ /
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Job-A-Thon 13 Hiring Challenge
 DTSTART;VALUE=DATE-TIME:20220921T143000Z
 DTEND;VALUE=DATE-TIME:20220921T170000Z
