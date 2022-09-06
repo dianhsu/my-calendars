@@ -95,6 +95,16 @@ UID:BuildWithCeloHackathon'22.PolishedSubmissionPhase.Online@dianhsu.com
 DESCRIPTION:https://build-with-celo.hackerearth.com/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Data Structures and Algorithms Coding Contest - September 22. Comp
+ etitive. Rated contest
+DTSTART;VALUE=DATE-TIME:20220910T040000Z
+DTEND;VALUE=DATE-TIME:20220910T053000Z
+UID:DataStructuresandAlgorithmsCodingContest-September22.Competitive.Rated
+ contest@dianhsu.com
+DESCRIPTION:https://www.hackerearth.com/challenges/competitive/data-struct
+ ures-and-algorithms-coding-contest-september-22/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:IBM zStudent Contest. Hackathon. Contest. Online
 DTSTART;VALUE=DATE-TIME:20220914T040000Z
 DTEND;VALUE=DATE-TIME:20230101T040000Z
