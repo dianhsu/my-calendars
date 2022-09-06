@@ -23,6 +23,13 @@ UID:AllThingse-Commerce-GeTSHackathon.IdeaSubmissionPhase.Online@dianhsu.c
 DESCRIPTION:https://www.hackerearth.com/challenges/hackathon/get-hack/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Build With Celo Hackathon '22. MVP Phase. Online
+DTSTART;VALUE=DATE-TIME:20220911T182900Z
+DTEND;VALUE=DATE-TIME:20220927T182900Z
+UID:BuildWithCeloHackathon'22.MVPPhase.Online@dianhsu.com
+DESCRIPTION:https://build-with-celo.hackerearth.com/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Zoho Creator Build an App Challenge. Hackathon. Prototype Submissi
  on Phase. Online
 DTSTART;VALUE=DATE-TIME:20220911T182900Z
@@ -129,6 +136,13 @@ DTEND;VALUE=DATE-TIME:20221002T123000Z
 UID:​.Hackathon.Hackathon.Online@dianhsu.com
 DESCRIPTION:https://www.hackerearth.com/challenges/hackathon/cheggs-hackat
  hon/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Build With Celo Hackathon '22. Polished Submission Phase. Online
+DTSTART;VALUE=DATE-TIME:20220919T130700Z
+DTEND;VALUE=DATE-TIME:20221118T130700Z
+UID:BuildWithCeloHackathon'22.PolishedSubmissionPhase.Online@dianhsu.com
+DESCRIPTION:https://build-with-celo.hackerearth.com/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ballerina Coding Challenge. Competitive
