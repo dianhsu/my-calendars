@@ -21,4 +21,12 @@ UID:CodestudioBeginnerContest16@dianhsu.com
 DESCRIPTION:https://www.codingninjas.com/codestudio/contests/codestudio-be
  ginner-contest-16
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mojoboxx Backend Developer Hiring Challenge
+DTSTART;VALUE=DATE-TIME:20220910T123000Z
+DTEND;VALUE=DATE-TIME:20220910T163000Z
+UID:MojoboxxBackendDeveloperHiringChallenge@dianhsu.com
+DESCRIPTION:https://www.codingninjas.com/codestudio/contests/mojoboxx-back
+ end-developer-hiring-challenge
+END:VEVENT
 END:VCALENDAR
