@@ -6,14 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:codingninjas.com_codestudio
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:Codestudio Beginner Contest 16
-DTSTART;VALUE=DATE-TIME:20220907T170000Z
-DTEND;VALUE=DATE-TIME:20220907T183000Z
-UID:CodestudioBeginnerContest16@dianhsu.com
-DESCRIPTION:https://www.codingninjas.com/codestudio/contests/codestudio-be
- ginner-contest-16
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Scholarship Test 7 - 8th September 2022
 DTSTART;VALUE=DATE-TIME:20220908T173000Z
 DTEND;VALUE=DATE-TIME:20220909T203000Z
@@ -36,5 +28,13 @@ DTEND;VALUE=DATE-TIME:20220910T163000Z
 UID:MojoboxxBackendDeveloperHiringChallenge@dianhsu.com
 DESCRIPTION:https://www.codingninjas.com/codestudio/contests/mojoboxx-back
  end-developer-hiring-challenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Codestudio Beginner Contest 17
+DTSTART;VALUE=DATE-TIME:20220921T153000Z
+DTEND;VALUE=DATE-TIME:20220921T170000Z
+UID:CodestudioBeginnerContest17@dianhsu.com
+DESCRIPTION:https://www.codingninjas.com/codestudio/contests/codestudio-be
+ ginner-contest-17
 END:VEVENT
 END:VCALENDAR
