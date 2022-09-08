@@ -14,6 +14,14 @@ DESCRIPTION:https://acmp.ru/asp/champ/index.asp?main=stage_info&id_stage=4
  2414
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Тестирование\, Лицей №7\, 10 кл.
+DTSTART;VALUE=DATE-TIME:20220912T040000Z
+DTEND;VALUE=DATE-TIME:20220912T053000Z
+UID:Тестирование\,Лицей№7\,10кл.@dianhsu.com
+DESCRIPTION:https://acmp.ru/asp/champ/index.asp?main=stage_info&id_stage=4
+ 2422
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Пробный тур командной олимпиады
 DTSTART;VALUE=DATE-TIME:20220918T050000Z
 DTEND;VALUE=DATE-TIME:20220918T150000Z
