@@ -23,4 +23,22 @@ UID:September2022PrimeTimeCodingChallenge-CompetitiveProgramming.Rated@dia
  nhsu.com
 DESCRIPTION:https://mycode.prepbytes.com/contest/PRIMETIMESEP22
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:October 2022 Coding Marathon - 10 Days Competitive coding challeng
+ e. Rated
+DTSTART;VALUE=DATE-TIME:20221007T183000Z
+DTEND;VALUE=DATE-TIME:20221017T183000Z
+UID:October2022CodingMarathon-10DaysCompetitivecodingchallenge.Rated@dianh
+ su.com
+DESCRIPTION:https://mycode.prepbytes.com/contest/MARATHONOCT22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:October 2022 Prime Time Coding Challenge - Competitive Programming
+ . Rated
+DTSTART;VALUE=DATE-TIME:20221028T160000Z
+DTEND;VALUE=DATE-TIME:20221028T183000Z
+UID:October2022PrimeTimeCodingChallenge-CompetitiveProgramming.Rated@dianh
+ su.com
+DESCRIPTION:https://mycode.prepbytes.com/contest/PRIMETIMEOCT22
+END:VEVENT
 END:VCALENDAR
