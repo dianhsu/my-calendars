@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//My calendar product//dianhsu.com//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:codility.com
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:National Coding Week 2022
+DTSTART;VALUE=DATE-TIME:20220910T170000Z
+DTEND;VALUE=DATE-TIME:20220911T170000Z
+UID:NationalCodingWeek2022@dianhsu.com
+DESCRIPTION:https://app.codility.com/programmers/challenges/national_codin
+ g_week2022/
+END:VEVENT
+END:VCALENDAR

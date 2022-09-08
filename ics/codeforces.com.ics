@@ -27,11 +27,25 @@ UID:ICPC2022OnlineChallengepoweredbyHUAWEI-Problem2@dianhsu.com
 DESCRIPTION:http://codeforces.com/contests/1724
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Codeforces Round #821 (Div. 2)
+DTSTART;VALUE=DATE-TIME:20220919T143500Z
+DTEND;VALUE=DATE-TIME:20220919T163500Z
+UID:CodeforcesRound#821(Div.2)@dianhsu.com
+DESCRIPTION:http://codeforces.com/contests/1733
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Codeforces Round (Div. 1 + Div. 2)
 DTSTART;VALUE=DATE-TIME:20220925T143500Z
 DTEND;VALUE=DATE-TIME:20220925T170500Z
 UID:CodeforcesRound(Div.1+Div.2)@dianhsu.com
 DESCRIPTION:http://codeforces.com/contests/1730
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Codeforces Round (Div. 2)
+DTSTART;VALUE=DATE-TIME:20221023T100500Z
+DTEND;VALUE=DATE-TIME:20221023T120500Z
+UID:CodeforcesRound(Div.2)@dianhsu.com
+DESCRIPTION:http://codeforces.com/contests/1732
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Codeforces Round (Div. 2)
