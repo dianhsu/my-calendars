@@ -15,13 +15,6 @@ UID:AllThingse-Commerce-GeTSHackathon.IdeaSubmissionPhase.Online@dianhsu.c
 DESCRIPTION:https://www.hackerearth.com/challenges/hackathon/get-hack/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Build With Celo Hackathon '22. MVP Phase. Online
-DTSTART;VALUE=DATE-TIME:20220911T182900Z
-DTEND;VALUE=DATE-TIME:20220927T182900Z
-UID:BuildWithCeloHackathon'22.MVPPhase.Online@dianhsu.com
-DESCRIPTION:https://build-with-celo.hackerearth.com/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Zoho Creator Build an App Challenge. Hackathon. Prototype Submissi
  on Phase. Online
 DTSTART;VALUE=DATE-TIME:20220911T182900Z
@@ -69,6 +62,13 @@ DTSTART;VALUE=DATE-TIME:20220920T045900Z
 DTEND;VALUE=DATE-TIME:20221023T045900Z
 UID:Web3athon.ProjectSubmissionphase.Online@dianhsu.com
 DESCRIPTION:https://web3athon.hackerearth.com/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Build With Celo Hackathon '22. MVP Phase. Online
+DTSTART;VALUE=DATE-TIME:20220925T182900Z
+DTEND;VALUE=DATE-TIME:20221025T182900Z
+UID:BuildWithCeloHackathon'22.MVPPhase.Online@dianhsu.com
+DESCRIPTION:https://build-with-celo.hackerearth.com/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Shell.ai Hackathon. Competitive
@@ -138,19 +138,19 @@ DESCRIPTION:https://www.hackerearth.com/challenges/hackathon/cheggs-hackat
  hon/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Build With Celo Hackathon '22. Polished Submission Phase. Online
-DTSTART;VALUE=DATE-TIME:20220919T130700Z
-DTEND;VALUE=DATE-TIME:20221118T130700Z
-UID:BuildWithCeloHackathon'22.PolishedSubmissionPhase.Online@dianhsu.com
-DESCRIPTION:https://build-with-celo.hackerearth.com/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ballerina Coding Challenge. Competitive
 DTSTART;VALUE=DATE-TIME:20220921T230100Z
 DTEND;VALUE=DATE-TIME:20220924T225900Z
 UID:BallerinaCodingChallenge.Competitive@dianhsu.com
 DESCRIPTION:https://www.hackerearth.com/challenges/competitive/ballerina-c
  oding-challenge/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Build With Celo Hackathon '22. Polished Submission Phase. Online
+DTSTART;VALUE=DATE-TIME:20220926T070100Z
+DTEND;VALUE=DATE-TIME:20221119T070100Z
+UID:BuildWithCeloHackathon'22.PolishedSubmissionPhase.Online@dianhsu.com
+DESCRIPTION:https://build-with-celo.hackerearth.com/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Quantum Science and Technology Hackathon 2022. Prototype Submissio
