@@ -6,14 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:hackerearth.com
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:The Very First Daisi™ Hackathon. Hackathon. Online
-DTSTART;VALUE=DATE-TIME:20220910T065900Z
-DTEND;VALUE=DATE-TIME:20221107T065900Z
-UID:TheVeryFirstDaisi™Hackathon.Hackathon.Online@dianhsu.com
-DESCRIPTION:https://www.hackerearth.com/challenges/hackathon/the-very-firs
- t-daisitm-hackathon/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:All Things e-Commerce - GeTS Hackathon. Idea Submission Phase. Onl
  ine
 DTSTART;VALUE=DATE-TIME:20220911T182900Z
@@ -85,6 +77,14 @@ DTEND;VALUE=DATE-TIME:20221101T182500Z
 UID:Shell.aiHackathon.Competitive@dianhsu.com
 DESCRIPTION:https://www.hackerearth.com/challenges/competitive/shellai-hac
  kathon-2022/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Very First Daisi™ Hackathon. Hackathon. Online
+DTSTART;VALUE=DATE-TIME:20221008T065900Z
+DTEND;VALUE=DATE-TIME:20230102T065900Z
+UID:TheVeryFirstDaisi™Hackathon.Hackathon.Online@dianhsu.com
+DESCRIPTION:https://www.hackerearth.com/challenges/hackathon/the-very-firs
+ t-daisitm-hackathon/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Urbanize Away. Hackathon. Hackathon. Online
