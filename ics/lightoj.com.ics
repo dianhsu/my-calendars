@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//My calendar product//dianhsu.com//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:lightoj.com
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Amra Amra Contest [public\, icpc\, individual]
+DTSTART;VALUE=DATE-TIME:20220910T123000Z
+DTEND;VALUE=DATE-TIME:20220910T143000Z
+UID:AmraAmraContest[public\,icpc\,individual]@dianhsu.com
+DESCRIPTION:https://lightoj.com/contest/bou-cse
+END:VEVENT
+END:VCALENDAR
