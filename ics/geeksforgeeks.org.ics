@@ -6,6 +6,14 @@ METHOD:PUBLISH
 X-WR-CALNAME:geeksforgeeks.org
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
+SUMMARY:Interview Series - 67
+DTSTART;VALUE=DATE-TIME:20220911T150000Z
+DTEND;VALUE=DATE-TIME:20220911T163000Z
+UID:InterviewSeries-67@dianhsu.com
+DESCRIPTION:https://practice.geeksforgeeks.org/contest/interview-series-67
+ /
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:GATE CS All India Scholarship Test 6.0
 DTSTART;VALUE=DATE-TIME:20220911T182900Z
 DTEND;VALUE=DATE-TIME:20220913T182800Z
@@ -20,14 +28,6 @@ DTEND;VALUE=DATE-TIME:20220913T182800Z
 UID:GATECSAllIndiaScholarshipTest6.0@dianhsu.com
 DESCRIPTION:https://practice.geeksforgeeks.org/contest/gate-cs-all-india-s
  cholarship-test-50-3606/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Interview Series - 67
-DTSTART;VALUE=DATE-TIME:20220911T133000Z
-DTEND;VALUE=DATE-TIME:20220911T150000Z
-UID:InterviewSeries-67@dianhsu.com
-DESCRIPTION:https://practice.geeksforgeeks.org/contest/interview-series-67
- /
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Job-A-Thon 13 Hiring Challenge
