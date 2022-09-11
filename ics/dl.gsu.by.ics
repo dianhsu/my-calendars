@@ -8,15 +8,6 @@ X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 SUMMARY:Программирование - профессионалы (к
  ом. 2022)
-DTSTART;VALUE=DATE-TIME:20220911T110000Z
-DTEND;VALUE=DATE-TIME:20220911T160000Z
-UID:Программирование-профессионалы(ком.202
- 2)@dianhsu.com
-DESCRIPTION:http://dl.gsu.by/LC.jsp?Type=-1&lng=ru
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Программирование - профессионалы (к
- ом. 2022)
 DTSTART;VALUE=DATE-TIME:20220918T060000Z
 DTEND;VALUE=DATE-TIME:20220918T110000Z
 UID:Программирование-профессионалы(ком.202
