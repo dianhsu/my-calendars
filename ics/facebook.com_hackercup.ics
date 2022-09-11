@@ -10,8 +10,7 @@ SUMMARY:Round 1 2022
 DTSTART;VALUE=DATE-TIME:20220911T170000Z
 DTEND;VALUE=DATE-TIME:20220912T170000Z
 UID:Round12022@dianhsu.com
-DESCRIPTION:https://www.facebook.com/codingcompetitions/hacker-cup/2022/ro
- und-1/scoreboard
+DESCRIPTION:https://clist.by/standings/round-1-2022-35675852/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Round 2 2022
