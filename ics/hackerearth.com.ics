@@ -6,25 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:hackerearth.com
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:All Things e-Commerce - GeTS Hackathon. Idea Submission Phase. Onl
- ine
-DTSTART;VALUE=DATE-TIME:20220911T182900Z
-DTEND;VALUE=DATE-TIME:20221011T182900Z
-UID:AllThingse-Commerce-GeTSHackathon.IdeaSubmissionPhase.Online@dianhsu.c
- om
-DESCRIPTION:https://www.hackerearth.com/challenges/hackathon/get-hack/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Zoho Creator Build an App Challenge. Hackathon. Prototype Submissi
- on Phase. Online
-DTSTART;VALUE=DATE-TIME:20220911T182900Z
-DTEND;VALUE=DATE-TIME:20221014T182900Z
-UID:ZohoCreatorBuildanAppChallenge.Hackathon.PrototypeSubmissionPhase.Onli
- ne@dianhsu.com
-DESCRIPTION:https://www.hackerearth.com/challenges/hackathon/zoho-creator-
- build-an-app-challenge/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Quantum Science and Technology Hackathon 2022. Registration and Id
  ea Submission. Online
 DTSTART;VALUE=DATE-TIME:20220915T182900Z

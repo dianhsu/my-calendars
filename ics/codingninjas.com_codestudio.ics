@@ -14,6 +14,14 @@ DESCRIPTION:https://www.codingninjas.com/codestudio/contests/borderfree-fr
  ontend-developer-hiring-challenge
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Scholarship Test 16th September 2022
+DTSTART;VALUE=DATE-TIME:20220916T123000Z
+DTEND;VALUE=DATE-TIME:20220916T173000Z
+UID:ScholarshipTest16thSeptember2022@dianhsu.com
+DESCRIPTION:https://www.codingninjas.com/codestudio/contests/scholarship-t
+ est-16th-september-2022
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Codestudio Weekend Contest 39
 DTSTART;VALUE=DATE-TIME:20220916T153000Z
 DTEND;VALUE=DATE-TIME:20220916T170000Z
