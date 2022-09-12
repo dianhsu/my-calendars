@@ -38,13 +38,15 @@ SUMMARY:PP1 Week 1 Introduction Part 1
 DTSTART;VALUE=DATE-TIME:20221002T195900Z
 DTEND;VALUE=DATE-TIME:20221022T195900Z
 UID:PP1Week1IntroductionPart1@dianhsu.com
-DESCRIPTION:https://www.eolymp.com:443/en/contests/26845
+DESCRIPTION:https://clist.by/standings/pp1-week-1-introduction-part-1-3735
+ 1301/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PP1 Week 1 Introduction Part 2
 DTSTART;VALUE=DATE-TIME:20221002T195900Z
 DTEND;VALUE=DATE-TIME:20221022T195900Z
 UID:PP1Week1IntroductionPart2@dianhsu.com
-DESCRIPTION:https://www.eolymp.com:443/en/contests/26846
+DESCRIPTION:https://clist.by/standings/pp1-week-1-introduction-part-2-3735
+ 1302/
 END:VEVENT
 END:VCALENDAR

@@ -6,14 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:dphi.tech
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:Data Sprint 89 - Sensor-Fusion Smoke Detection Classification
-DTSTART;VALUE=DATE-TIME:20220912T153000Z
-DTEND;VALUE=DATE-TIME:20220915T153000Z
-UID:DataSprint89-Sensor-FusionSmokeDetectionClassification@dianhsu.com
-DESCRIPTION:https://dphi.tech/challenges/data-sprint-89-sensor-fusion-smok
- e-detection-classification/257/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Juniper Networks Global AI Challenge
 DTSTART;VALUE=DATE-TIME:20220916T150000Z
 DTEND;VALUE=DATE-TIME:20221006T150000Z
