@@ -16,6 +16,15 @@ DESCRIPTION:https://quantum-science-and-technology-hackathon-2022.hackerea
  rth.com/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:All Things e-Commerce - GeTS Hackathon. Idea Submission Phase. Onl
+ ine
+DTSTART;VALUE=DATE-TIME:20220916T065900Z
+DTEND;VALUE=DATE-TIME:20221020T065900Z
+UID:AllThingse-Commerce-GeTSHackathon.IdeaSubmissionPhase.Online@dianhsu.c
+ om
+DESCRIPTION:https://www.hackerearth.com/challenges/hackathon/get-hack/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Xiaomi Ode2Code 2.0. Hackathon. Prototype Submission Phase. Online
 DTSTART;VALUE=DATE-TIME:20220918T182900Z
 DTEND;VALUE=DATE-TIME:20221010T182900Z
