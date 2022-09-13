@@ -109,6 +109,14 @@ DESCRIPTION:https://www.hackerearth.com/challenges/hackathon/cheggs-hackat
  hon/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:September Circuits '22. Competitive. Rated contest
+DTSTART;VALUE=DATE-TIME:20220916T160000Z
+DTEND;VALUE=DATE-TIME:20220923T160000Z
+UID:SeptemberCircuits'22.Competitive.Ratedcontest@dianhsu.com
+DESCRIPTION:https://www.hackerearth.com/challenges/competitive/september-c
+ ircuits-22/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ballerina Coding Challenge. Competitive
 DTSTART;VALUE=DATE-TIME:20220921T230100Z
 DTEND;VALUE=DATE-TIME:20220924T225900Z
