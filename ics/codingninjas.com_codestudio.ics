@@ -30,6 +30,13 @@ DESCRIPTION:https://www.codingninjas.com/codestudio/contests/codestudio-we
  ekend-contest-39
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CodeKombat
+DTSTART;VALUE=DATE-TIME:20220920T063000Z
+DTEND;VALUE=DATE-TIME:20220920T163000Z
+UID:CodeKombat@dianhsu.com
+DESCRIPTION:https://www.codingninjas.com/codestudio/contests/codekombat
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Broadridge Java and C++ Developer Hiring Challenge
 DTSTART;VALUE=DATE-TIME:20220920T123000Z
 DTEND;VALUE=DATE-TIME:20220920T163000Z
