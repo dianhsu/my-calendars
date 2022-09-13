@@ -29,4 +29,19 @@ UID:TOYOTAMOTORCORPORATIONProgrammingContest2022(AtCoderBeginnerContest270
  )@dianhsu.com
 DESCRIPTION:https://atcoder.jp/contests/abc270
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KYOCERA Programming Contest 2022（AtCoder Beginner Contest 271）
+DTSTART;VALUE=DATE-TIME:20221001T120000Z
+DTEND;VALUE=DATE-TIME:20221001T134000Z
+UID:KYOCERAProgrammingContest2022（AtCoderBeginnerContest271）@dianhsu.c
+ om
+DESCRIPTION:https://atcoder.jp/contests/abc271
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AtCoder Beginner Contest 272
+DTSTART;VALUE=DATE-TIME:20221008T120000Z
+DTEND;VALUE=DATE-TIME:20221008T134000Z
+UID:AtCoderBeginnerContest272@dianhsu.com
+DESCRIPTION:https://atcoder.jp/contests/abc272
+END:VEVENT
 END:VCALENDAR
