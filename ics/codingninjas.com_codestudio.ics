@@ -30,6 +30,14 @@ DESCRIPTION:https://www.codingninjas.com/codestudio/contests/codestudio-we
  ekend-contest-39
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Broadridge Java and C++ Developer Hiring Challenge
+DTSTART;VALUE=DATE-TIME:20220920T123000Z
+DTEND;VALUE=DATE-TIME:20220920T163000Z
+UID:BroadridgeJavaandC++DeveloperHiringChallenge@dianhsu.com
+DESCRIPTION:https://www.codingninjas.com/codestudio/contests/broadridge-ja
+ va-and-c-developer-hiring-challenge
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Codestudio Beginner Contest 17
 DTSTART;VALUE=DATE-TIME:20220921T153000Z
 DTEND;VALUE=DATE-TIME:20220921T170000Z

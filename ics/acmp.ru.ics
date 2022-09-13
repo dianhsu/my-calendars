@@ -13,4 +13,12 @@ UID:Пробныйтуркоманднойолимпиады@dianhsu.com
 DESCRIPTION:https://acmp.ru/asp/champ/index.asp?main=stage_info&id_stage=4
  2415
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Тестирование\, ФМШ\, 10 кл.
+DTSTART;VALUE=DATE-TIME:20220920T073000Z
+DTEND;VALUE=DATE-TIME:20220920T090000Z
+UID:Тестирование\,ФМШ\,10кл.@dianhsu.com
+DESCRIPTION:https://acmp.ru/asp/champ/index.asp?main=stage_info&id_stage=4
+ 2427
+END:VEVENT
 END:VCALENDAR

@@ -6,15 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:hackerearth.com
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:All Things e-Commerce - GeTS Hackathon. Idea Submission Phase. Onl
- ine
-DTSTART;VALUE=DATE-TIME:20220913T065900Z
-DTEND;VALUE=DATE-TIME:20221014T065900Z
-UID:AllThingse-Commerce-GeTSHackathon.IdeaSubmissionPhase.Online@dianhsu.c
- om
-DESCRIPTION:https://www.hackerearth.com/challenges/hackathon/get-hack/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Quantum Science and Technology Hackathon 2022. Registration and Id
  ea Submission. Online
 DTSTART;VALUE=DATE-TIME:20220915T182900Z
