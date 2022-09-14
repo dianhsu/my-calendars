@@ -6,10 +6,10 @@ METHOD:PUBLISH
 X-WR-CALNAME:yukicoder.me
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:yukicoder contest　（オムニバス問題募集中）
+SUMMARY:yukicoder contest
 DTSTART;VALUE=DATE-TIME:20220916T122000Z
 DTEND;VALUE=DATE-TIME:20220916T142000Z
-UID:yukicodercontest　（オムニバス問題募集中）@dianhsu.com
+UID:yukicodercontest@dianhsu.com
 DESCRIPTION:https://yukicoder.me/contests/404
 END:VEVENT
 BEGIN:VEVENT
