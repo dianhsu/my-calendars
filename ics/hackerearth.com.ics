@@ -84,6 +84,16 @@ DESCRIPTION:https://www.hackerearth.com/challenges/hackathon/the-very-firs
  t-daisitm-hackathon/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Great Learning Software Development & Engineering Admission Challe
+ nge. Competitive
+DTSTART;VALUE=DATE-TIME:20221010T003000Z
+DTEND;VALUE=DATE-TIME:20221104T003000Z
+UID:GreatLearningSoftwareDevelopment&EngineeringAdmissionChallenge.Competi
+ tive@dianhsu.com
+DESCRIPTION:https://www.hackerearth.com/challenges/competitive/great-learn
+ ing-software-development-engineering-admission-challenge/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:​. Hackathon. Virtual Idea Submission. Online
 DTSTART;VALUE=DATE-TIME:20221010T182900Z
 DTEND;VALUE=DATE-TIME:20221105T182900Z
@@ -113,16 +123,6 @@ DTEND;VALUE=DATE-TIME:20230420T045900Z
 UID:IBMzStudentContest.Hackathon.Contest.Online@dianhsu.com
 DESCRIPTION:https://www.hackerearth.com/challenges/hackathon/ibm-z-student
  -contest-2022/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Great Learning Software Development & Engineering Admission Challe
- nge. Competitive
-DTSTART;VALUE=DATE-TIME:20220914T123000Z
-DTEND;VALUE=DATE-TIME:20221009T123000Z
-UID:GreatLearningSoftwareDevelopment&EngineeringAdmissionChallenge.Competi
- tive@dianhsu.com
-DESCRIPTION:https://www.hackerearth.com/challenges/competitive/great-learn
- ing-software-development-engineering-admission-challenge/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:​. Hackathon. Hackathon. Online
