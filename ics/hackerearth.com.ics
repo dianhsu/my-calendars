@@ -47,13 +47,6 @@ UID:MoMoHackathon2022.PROTOTYPESUBMISSIONPHASE.Online@dianhsu.com
 DESCRIPTION:https://momo2022.hackerearth.com/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:MoMo Hackathon 2022. Phase de soumission du prototype. Online
-DTSTART;VALUE=DATE-TIME:20220918T235900Z
-DTEND;VALUE=DATE-TIME:20221001T235900Z
-UID:MoMoHackathon2022.Phasedesoumissionduprototype.Online@dianhsu.com
-DESCRIPTION:https://momo2022fr.hackerearth.com/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Web3athon. Project Submission phase. Online
 DTSTART;VALUE=DATE-TIME:20220920T045900Z
 DTEND;VALUE=DATE-TIME:20221023T045900Z
@@ -66,6 +59,13 @@ DTSTART;VALUE=DATE-TIME:20220925T182900Z
 DTEND;VALUE=DATE-TIME:20221025T182900Z
 UID:BuildWithCeloHackathon'22.MVPPhase.Online@dianhsu.com
 DESCRIPTION:https://build-with-celo.hackerearth.com/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MoMo Hackathon 2022. Phase de soumission du prototype. Online
+DTSTART;VALUE=DATE-TIME:20220925T235900Z
+DTEND;VALUE=DATE-TIME:20221015T235900Z
+UID:MoMoHackathon2022.Phasedesoumissionduprototype.Online@dianhsu.com
+DESCRIPTION:https://momo2022fr.hackerearth.com/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Shell.ai Hackathon. Competitive
