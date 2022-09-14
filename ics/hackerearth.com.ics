@@ -77,6 +77,14 @@ DESCRIPTION:https://www.hackerearth.com/challenges/hackathon/the-very-firs
  t-daisitm-hackathon/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:​. Hackathon. Virtual Idea Submission. Online
+DTSTART;VALUE=DATE-TIME:20221010T182900Z
+DTEND;VALUE=DATE-TIME:20221105T182900Z
+UID:​.Hackathon.VirtualIdeaSubmission.Online@dianhsu.com
+DESCRIPTION:https://www.hackerearth.com/challenges/hackathon/shift-hackath
+ on-2022/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Urbanize Away. Hackathon. Hackathon. Online
 DTSTART;VALUE=DATE-TIME:20221015T163000Z
 DTEND;VALUE=DATE-TIME:20221129T163000Z
@@ -166,5 +174,13 @@ DTEND;VALUE=DATE-TIME:20221008T124500Z
 UID:OPPOInspirationCup.Competitive@dianhsu.com
 DESCRIPTION:https://www.hackerearth.com/challenges/competitive/oppo-inspir
  ation-cup/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:​. Hackathon. Onsite hackathon. Bengaluru
+DTSTART;VALUE=DATE-TIME:20221117T033000Z
+DTEND;VALUE=DATE-TIME:20221118T043000Z
+UID:​.Hackathon.Onsitehackathon.Bengaluru@dianhsu.com
+DESCRIPTION:https://www.hackerearth.com/challenges/hackathon/shift-hackath
+ on-2022/
 END:VEVENT
 END:VCALENDAR

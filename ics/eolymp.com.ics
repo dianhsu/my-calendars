@@ -49,4 +49,11 @@ UID:PP1Week1IntroductionPart2@dianhsu.com
 DESCRIPTION:https://clist.by/standings/pp1-week-1-introduction-part-2-3735
  1302/
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Пошук в глибину
+DTSTART;VALUE=DATE-TIME:20220914T090000Z
+DTEND;VALUE=DATE-TIME:20220914T110000Z
+UID:Пошуквглибину@dianhsu.com
+DESCRIPTION:https://www.eolymp.com:443/en/contests/26906
+END:VEVENT
 END:VCALENDAR
