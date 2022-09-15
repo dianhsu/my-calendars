@@ -132,22 +132,6 @@ DESCRIPTION:https://www.hackerearth.com/challenges/hackathon/ibm-z-student
  -contest-2022/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chegg's Live Hack. Hackathon. Hackathon. Online
-DTSTART;VALUE=DATE-TIME:20220916T123000Z
-DTEND;VALUE=DATE-TIME:20221002T123000Z
-UID:Chegg'sLiveHack.Hackathon.Hackathon.Online@dianhsu.com
-DESCRIPTION:https://www.hackerearth.com/challenges/hackathon/cheggs-hackat
- hon/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:​. Hackathon. Hackathon. Online
-DTSTART;VALUE=DATE-TIME:20220916T123000Z
-DTEND;VALUE=DATE-TIME:20221002T123000Z
-UID:​.Hackathon.Hackathon.Online@dianhsu.com
-DESCRIPTION:https://www.hackerearth.com/challenges/hackathon/cheggs-hackat
- hon/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:September Circuits '22. Competitive. Rated contest
 DTSTART;VALUE=DATE-TIME:20220916T160000Z
 DTEND;VALUE=DATE-TIME:20220923T160000Z
