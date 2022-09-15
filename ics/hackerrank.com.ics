@@ -10,7 +10,7 @@ SUMMARY:Oracle OCI Hack Day Challenge
 DTSTART;VALUE=DATE-TIME:20220915T120000Z
 DTEND;VALUE=DATE-TIME:20220915T200000Z
 UID:OracleOCIHackDayChallenge@dianhsu.com
-DESCRIPTION:https://hackerrank.com/contests/hackathon-oci
+DESCRIPTION:https://hackerrank.com/contests/hackathon-oci/leaderboard
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ServiceNow AMS Code to Win
