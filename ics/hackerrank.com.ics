@@ -13,6 +13,13 @@ UID:OracleOCIHackDayChallenge@dianhsu.com
 DESCRIPTION:https://hackerrank.com/contests/hackathon-oci/leaderboard
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:DTCC Grace Hopper Codeathon Challenge
+DTSTART;VALUE=DATE-TIME:20221014T113000Z
+DTEND;VALUE=DATE-TIME:20221015T040000Z
+UID:DTCCGraceHopperCodeathonChallenge@dianhsu.com
+DESCRIPTION:https://hackerrank.com/contests/dtcc-gracehopper-codeathon
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ServiceNow AMS Code to Win
 DTSTART;VALUE=DATE-TIME:20221021T133000Z
 DTEND;VALUE=DATE-TIME:20221021T213000Z
