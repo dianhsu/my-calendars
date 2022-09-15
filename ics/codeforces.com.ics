@@ -10,14 +10,16 @@ SUMMARY:ICPC 2022 Online Challenge powered by HUAWEI - Problem 1
 DTSTART;VALUE=DATE-TIME:20220930T000000Z
 DTEND;VALUE=DATE-TIME:20221015T000000Z
 UID:ICPC2022OnlineChallengepoweredbyHUAWEI-Problem1@dianhsu.com
-DESCRIPTION:http://codeforces.com/contests/1723
+DESCRIPTION:https://clist.by/standings/icpc-2022-online-challenge-powered-
+ by-huawei-problem-1-36993334/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ICPC 2022 Online Challenge powered by HUAWEI - Problem 2
 DTSTART;VALUE=DATE-TIME:20220930T000000Z
 DTEND;VALUE=DATE-TIME:20221015T000000Z
 UID:ICPC2022OnlineChallengepoweredbyHUAWEI-Problem2@dianhsu.com
-DESCRIPTION:http://codeforces.com/contests/1724
+DESCRIPTION:https://clist.by/standings/icpc-2022-online-challenge-powered-
+ by-huawei-problem-2-36993335/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Codeforces Round #821 (Div. 2)
