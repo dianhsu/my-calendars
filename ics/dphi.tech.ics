@@ -6,17 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:dphi.tech
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:Juniper Networks Global AI Challenge
-DTSTART;VALUE=DATE-TIME:20220916T150000Z
-DTEND;VALUE=DATE-TIME:20221006T150000Z
-UID:JuniperNetworksGlobalAIChallenge@dianhsu.com
-DESCRIPTION:https://dphi.tech/challenges/juniper-networks-global-ai-challe
- nge/286/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Data Sprint 90 - Bar Passage Qualification
-DTSTART;VALUE=DATE-TIME:20220916T153000Z
-DTEND;VALUE=DATE-TIME:20220919T153000Z
+DTSTART;VALUE=DATE-TIME:20220919T153000Z
+DTEND;VALUE=DATE-TIME:20220922T153000Z
 UID:DataSprint90-BarPassageQualification@dianhsu.com
 DESCRIPTION:https://dphi.tech/challenges/data-sprint-90-bar-passage-qualif
  ication/295/
