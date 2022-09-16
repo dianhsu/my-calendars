@@ -164,6 +164,14 @@ DESCRIPTION:https://quantum-science-and-technology-hackathon-2022.hackerea
  rth.com/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:HackaNoodle by Zomato & Blinkit. Competitive
+DTSTART;VALUE=DATE-TIME:20220930T123000Z
+DTEND;VALUE=DATE-TIME:20221009T123000Z
+UID:HackaNoodlebyZomato&Blinkit.Competitive@dianhsu.com
+DESCRIPTION:https://www.hackerearth.com/challenges/competitive/hackanoodle
+ -code-to-inspire/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:All Things e-Commerce - GeTS Hackathon. Prototype Submission Phase
  . Online
 DTSTART;VALUE=DATE-TIME:20221001T183000Z
