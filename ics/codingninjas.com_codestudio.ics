@@ -6,22 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:codingninjas.com_codestudio
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:Codestudio Weekend Contest 39
-DTSTART;VALUE=DATE-TIME:20220916T170000Z
-DTEND;VALUE=DATE-TIME:20220916T183000Z
-UID:CodestudioWeekendContest39@dianhsu.com
-DESCRIPTION:https://www.codingninjas.com/codestudio/contests/codestudio-we
- ekend-contest-39
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Scholarship Test 16th September 2022
-DTSTART;VALUE=DATE-TIME:20220916T173000Z
-DTEND;VALUE=DATE-TIME:20220916T223000Z
-UID:ScholarshipTest16thSeptember2022@dianhsu.com
-DESCRIPTION:https://www.codingninjas.com/codestudio/contests/scholarship-t
- est-16th-september-2022
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CodeKombat
 DTSTART;VALUE=DATE-TIME:20220920T063000Z
 DTEND;VALUE=DATE-TIME:20220920T163000Z
