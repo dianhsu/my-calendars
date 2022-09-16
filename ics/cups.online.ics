@@ -60,6 +60,34 @@ UID:Lovetosolve[design].Физика@dianhsu.com
 DESCRIPTION:https://cups.online/rounds/731
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Love to solve. Biology
+DTSTART;VALUE=DATE-TIME:20220928T070000Z
+DTEND;VALUE=DATE-TIME:20221005T070000Z
+UID:Lovetosolve.Biology@dianhsu.com
+DESCRIPTION:https://cups.online/rounds/742
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Love to solve. Computer science
+DTSTART;VALUE=DATE-TIME:20220928T070000Z
+DTEND;VALUE=DATE-TIME:20221005T070000Z
+UID:Lovetosolve.Computerscience@dianhsu.com
+DESCRIPTION:https://cups.online/rounds/743
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Love to solve. Math
+DTSTART;VALUE=DATE-TIME:20220928T070000Z
+DTEND;VALUE=DATE-TIME:20221005T070000Z
+UID:Lovetosolve.Math@dianhsu.com
+DESCRIPTION:https://cups.online/rounds/741
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Love to solve. Physics
+DTSTART;VALUE=DATE-TIME:20220928T070000Z
+DTEND;VALUE=DATE-TIME:20221005T070000Z
+UID:Lovetosolve.Physics@dianhsu.com
+DESCRIPTION:https://cups.online/rounds/740
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Всероссийская олимпиада по ИИ - 2022 [ai
  ]. Основной этап
 DTSTART;VALUE=DATE-TIME:20221010T070000Z

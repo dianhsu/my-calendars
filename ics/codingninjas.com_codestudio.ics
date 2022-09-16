@@ -7,8 +7,8 @@ X-WR-CALNAME:codingninjas.com_codestudio
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 SUMMARY:Scholarship Test 16th September 2022
-DTSTART;VALUE=DATE-TIME:20220916T123000Z
-DTEND;VALUE=DATE-TIME:20220916T173000Z
+DTSTART;VALUE=DATE-TIME:20220916T173000Z
+DTEND;VALUE=DATE-TIME:20220916T223000Z
 UID:ScholarshipTest16thSeptember2022@dianhsu.com
 DESCRIPTION:https://www.codingninjas.com/codestudio/contests/scholarship-t
  est-16th-september-2022
