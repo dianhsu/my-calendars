@@ -82,6 +82,14 @@ DESCRIPTION:https://www.hackerearth.com/challenges/competitive/shellai-hac
  kathon-2022/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:‎. Hackathon. Hackathon. Online
+DTSTART;VALUE=DATE-TIME:20221002T182500Z
+DTEND;VALUE=DATE-TIME:20221018T182500Z
+UID:‎.Hackathon.Hackathon.Online@dianhsu.com
+DESCRIPTION:https://www.hackerearth.com/challenges/hackathon/cheggs-hackat
+ hon/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Very First Daisi™ Hackathon. Hackathon. Online
 DTSTART;VALUE=DATE-TIME:20221008T065900Z
 DTEND;VALUE=DATE-TIME:20230102T065900Z
@@ -129,14 +137,6 @@ DTEND;VALUE=DATE-TIME:20230420T045900Z
 UID:IBMzStudentContest.Hackathon.Contest.Online@dianhsu.com
 DESCRIPTION:https://www.hackerearth.com/challenges/hackathon/ibm-z-student
  -contest-2022/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:‎. Hackathon. Hackathon. Online
-DTSTART;VALUE=DATE-TIME:20220916T182500Z
-DTEND;VALUE=DATE-TIME:20221002T182500Z
-UID:‎.Hackathon.Hackathon.Online@dianhsu.com
-DESCRIPTION:https://www.hackerearth.com/challenges/hackathon/cheggs-hackat
- hon/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ballerina Coding Challenge. Competitive
