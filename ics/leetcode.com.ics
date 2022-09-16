@@ -19,11 +19,4 @@ DTEND;VALUE=DATE-TIME:20220918T040000Z
 UID:WeeklyContest311@dianhsu.com
 DESCRIPTION:https://leetcode.com/contest/weekly-contest-311
 END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Contest for Airwallex testing 1
-DTSTART;VALUE=DATE-TIME:20220930T195300Z
-DTEND;VALUE=DATE-TIME:20220930T212300Z
-UID:ContestforAirwallextesting1@dianhsu.com
-DESCRIPTION:https://leetcode.com/contest/contest-for-airwallex-testing-1
-END:VEVENT
 END:VCALENDAR

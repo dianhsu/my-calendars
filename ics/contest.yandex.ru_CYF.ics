@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//My calendar product//dianhsu.com//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:contest.yandex.ru_CYF
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:Зеркало: Областная интернет-олимпиа
+ да по программированию 2022. Гомельская об
+ ласть\, 17 сентября 2022
+DTSTART;VALUE=DATE-TIME:20220917T090000Z
+DTEND;VALUE=DATE-TIME:20220917T130000Z
+UID:Зеркало:Областнаяинтернет-олимпиадап
+ опрограммированию2022.Гомельскаяобласть\
+ ,17сентября2022@dianhsu.com
+DESCRIPTION:https://official.contest.yandex.ru/CYF/contest/40386/enter/
+END:VEVENT
+END:VCALENDAR
