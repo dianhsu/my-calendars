@@ -44,4 +44,12 @@ UID:CodestudioBeginnerContest17@dianhsu.com
 DESCRIPTION:https://www.codingninjas.com/codestudio/contests/codestudio-be
  ginner-contest-17
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Codestudio Monthly Contest 6
+DTSTART;VALUE=DATE-TIME:20220925T100000Z
+DTEND;VALUE=DATE-TIME:20220925T123000Z
+UID:CodestudioMonthlyContest6@dianhsu.com
+DESCRIPTION:https://www.codingninjas.com/codestudio/contests/codestudio-mo
+ nthly-contest-6
+END:VEVENT
 END:VCALENDAR
