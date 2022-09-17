@@ -10,6 +10,6 @@ SUMMARY:2022 NCPC Practice Contest 2
 DTSTART;VALUE=DATE-TIME:20220917T090000Z
 DTEND;VALUE=DATE-TIME:20220917T140000Z
 UID:2022NCPCPracticeContest2@dianhsu.com
-DESCRIPTION:https://open.kattis.com/contests/ncpc22practice2
+DESCRIPTION:https://open.kattis.com/contests/ncpc22practice2/standings
 END:VEVENT
 END:VCALENDAR
