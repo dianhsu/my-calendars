@@ -12,4 +12,11 @@ DTEND;VALUE=DATE-TIME:20220918T040000Z
 UID:WeeklyContest311@dianhsu.com
 DESCRIPTION:https://leetcode.com/contest/weekly-contest-311
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Biweekly Contest 88
+DTSTART;VALUE=DATE-TIME:20221001T143000Z
+DTEND;VALUE=DATE-TIME:20221001T160000Z
+UID:BiweeklyContest88@dianhsu.com
+DESCRIPTION:https://leetcode.com/contest/biweekly-contest-88
+END:VEVENT
 END:VCALENDAR
