@@ -6,10 +6,10 @@ METHOD:PUBLISH
 X-WR-CALNAME:lightoj.com
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:Amra Amra Contest [public\, icpc\, individual]
-DTSTART;VALUE=DATE-TIME:20220910T123000Z
-DTEND;VALUE=DATE-TIME:20220910T143000Z
-UID:AmraAmraContest[public\,icpc\,individual]@dianhsu.com
-DESCRIPTION:https://lightoj.com/contest/bou-cse
+SUMMARY:Swecha - Software Freedom Day [public\, icpc\, individual]
+DTSTART;VALUE=DATE-TIME:20220917T080000Z
+DTEND;VALUE=DATE-TIME:20220917T093000Z
+UID:Swecha-SoftwareFreedomDay[public\,icpc\,individual]@dianhsu.com
+DESCRIPTION:https://lightoj.com/contest/swechasfd
 END:VEVENT
 END:VCALENDAR
