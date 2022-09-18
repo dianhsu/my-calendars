@@ -29,6 +29,14 @@ DESCRIPTION:https://www.codingninjas.com/codestudio/contests/codestudio-be
  ginner-contest-17
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Scholarship Test 23rd September 2022
+DTSTART;VALUE=DATE-TIME:20220923T123000Z
+DTEND;VALUE=DATE-TIME:20220923T173000Z
+UID:ScholarshipTest23rdSeptember2022@dianhsu.com
+DESCRIPTION:https://www.codingninjas.com/codestudio/contests/scholarship-t
+ est-23rd-september-2022
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Codestudio Monthly Contest 6
 DTSTART;VALUE=DATE-TIME:20220925T100000Z
 DTEND;VALUE=DATE-TIME:20220925T123000Z

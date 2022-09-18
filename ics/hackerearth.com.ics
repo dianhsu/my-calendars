@@ -6,14 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:hackerearth.com
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:Xiaomi Ode2Code 2.0. Hackathon. Prototype Submission Phase. Online
-DTSTART;VALUE=DATE-TIME:20220918T182900Z
-DTEND;VALUE=DATE-TIME:20221010T182900Z
-UID:XiaomiOde2Code2.0.Hackathon.PrototypeSubmissionPhase.Online@dianhsu.co
- m
-DESCRIPTION:https://www.hackerearth.com/challenges/hackathon/ode2code-20/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Hackathon MoMo 2022. Phase de soumission du prototype. Online
 DTSTART;VALUE=DATE-TIME:20220918T235900Z
 DTEND;VALUE=DATE-TIME:20221001T235900Z
