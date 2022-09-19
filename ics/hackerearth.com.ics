@@ -100,6 +100,13 @@ DESCRIPTION:https://www.hackerearth.com/challenges/hackathon/Urbanize-Away
  /
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Learn Coding for Brother Printers. Idea submission. Online
+DTSTART;VALUE=DATE-TIME:20221108T045900Z
+DTEND;VALUE=DATE-TIME:20221231T045900Z
+UID:LearnCodingforBrotherPrinters.Ideasubmission.Online@dianhsu.com
+DESCRIPTION:https://brother.hackerearth.com/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:IBM zStudent Contest. Hackathon. Contest. Online
 DTSTART;VALUE=DATE-TIME:20230101T045900Z
 DTEND;VALUE=DATE-TIME:20230420T045900Z
@@ -116,26 +123,11 @@ DESCRIPTION:https://www.hackerearth.com/challenges/competitive/ballerina-c
  oding-challenge/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Build With Celo Hackathon '22
-DTSTART;VALUE=DATE-TIME:20220926T070100Z
-DTEND;VALUE=DATE-TIME:20221119T070100Z
-UID:BuildWithCeloHackathon'22@dianhsu.com
-DESCRIPTION:https://build-with-celo.hackerearth.com/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Build With Celo Hackathon '22. Polished Submission Phase. Online
 DTSTART;VALUE=DATE-TIME:20220926T070100Z
 DTEND;VALUE=DATE-TIME:20221119T070100Z
 UID:BuildWithCeloHackathon'22.PolishedSubmissionPhase.Online@dianhsu.com
 DESCRIPTION:https://build-with-celo.hackerearth.com/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Quantum Science and Technology Hackathon 2022
-DTSTART;VALUE=DATE-TIME:20220929T043000Z
-DTEND;VALUE=DATE-TIME:20221029T043000Z
-UID:QuantumScienceandTechnologyHackathon2022@dianhsu.com
-DESCRIPTION:https://quantum-science-and-technology-hackathon-2022.hackerea
- rth.com/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Quantum Science and Technology Hackathon 2022. Prototype Submissio
@@ -156,13 +148,6 @@ DESCRIPTION:https://www.hackerearth.com/challenges/competitive/hackanoodle
  -code-to-inspire/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:All Things e-Commerce - GeTS Hackathon
-DTSTART;VALUE=DATE-TIME:20221001T183000Z
-DTEND;VALUE=DATE-TIME:20221022T183000Z
-UID:AllThingse-Commerce-GeTSHackathon@dianhsu.com
-DESCRIPTION:https://www.hackerearth.com/challenges/hackathon/get-hack/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:All Things e-Commerce - GeTS Hackathon. Prototype Submission Phase
  . Online
 DTSTART;VALUE=DATE-TIME:20221001T183000Z
@@ -180,12 +165,11 @@ DESCRIPTION:https://www.hackerearth.com/challenges/competitive/oppo-inspir
  ation-cup/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:​. Hackathon
-DTSTART;VALUE=DATE-TIME:20221117T033000Z
-DTEND;VALUE=DATE-TIME:20221118T043000Z
-UID:​.Hackathon@dianhsu.com
-DESCRIPTION:https://www.hackerearth.com/challenges/hackathon/shift-hackath
- on-2022/
+SUMMARY:Learn Coding for Brother Printers. Project submission. Online
+DTSTART;VALUE=DATE-TIME:20221113T050000Z
+DTEND;VALUE=DATE-TIME:20221224T050000Z
+UID:LearnCodingforBrotherPrinters.Projectsubmission.Online@dianhsu.com
+DESCRIPTION:https://brother.hackerearth.com/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:​. Hackathon. Onsite hackathon. Bengaluru
