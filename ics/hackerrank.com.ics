@@ -19,4 +19,11 @@ DTEND;VALUE=DATE-TIME:20221021T213000Z
 UID:ServiceNowAMSCodetoWin@dianhsu.com
 DESCRIPTION:https://hackerrank.com/contests/servicenow-ams-code-to-win
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Amazon Ads Challenge
+DTSTART;VALUE=DATE-TIME:20221022T113000Z
+DTEND;VALUE=DATE-TIME:20221023T040000Z
+UID:AmazonAdsChallenge@dianhsu.com
+DESCRIPTION:https://hackerrank.com/contests/amazon-ads-challenge
+END:VEVENT
 END:VCALENDAR
