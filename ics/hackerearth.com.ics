@@ -29,8 +29,8 @@ DESCRIPTION:https://clist.by/standings/september-circuits-22-competitive-r
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Build With Celo Hackathon '22. Idea Submission Phase. Online
-DTSTART;VALUE=DATE-TIME:20220925T182900Z
-DTEND;VALUE=DATE-TIME:20221025T182900Z
+DTSTART;VALUE=DATE-TIME:20220924T182900Z
+DTEND;VALUE=DATE-TIME:20221023T182900Z
 UID:BuildWithCeloHackathon'22.IdeaSubmissionPhase.Online@dianhsu.com
 DESCRIPTION:https://build-with-celo.hackerearth.com/
 END:VEVENT
