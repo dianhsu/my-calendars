@@ -37,6 +37,14 @@ DESCRIPTION:https://www.codingninjas.com/codestudio/contests/scholarship-t
  est-23rd-september-2022
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Codestudio Weekend Contest 40
+DTSTART;VALUE=DATE-TIME:20220923T153000Z
+DTEND;VALUE=DATE-TIME:20220923T170000Z
+UID:CodestudioWeekendContest40@dianhsu.com
+DESCRIPTION:https://www.codingninjas.com/codestudio/contests/codestudio-we
+ ekend-contest-40
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Codestudio Monthly Contest 6
 DTSTART;VALUE=DATE-TIME:20220925T100000Z
 DTEND;VALUE=DATE-TIME:20220925T123000Z
