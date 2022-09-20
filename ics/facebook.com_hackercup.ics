@@ -10,15 +10,15 @@ SUMMARY:Round 2 2022
 DTSTART;VALUE=DATE-TIME:20220924T170000Z
 DTEND;VALUE=DATE-TIME:20220924T200000Z
 UID:Round22022@dianhsu.com
-DESCRIPTION:https://www.facebook.com/login/?next=https%3A%2F%2Fwww.faceboo
- k.com%2Fcodingcompetitions%2Fhacker-cup%2F2022%2Fround-2%2Fscoreboard
+DESCRIPTION:https://www.facebook.com/codingcompetitions/hacker-cup/2022/ro
+ und-2/scoreboard
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Round 3 2022
 DTSTART;VALUE=DATE-TIME:20221008T170000Z
 DTEND;VALUE=DATE-TIME:20221008T200000Z
 UID:Round32022@dianhsu.com
-DESCRIPTION:https://www.facebook.com/login/?next=https%3A%2F%2Fwww.faceboo
- k.com%2Fcodingcompetitions%2Fhacker-cup%2F2022%2Fround-3%2Fscoreboard
+DESCRIPTION:https://www.facebook.com/codingcompetitions/hacker-cup/2022/ro
+ und-3/scoreboard
 END:VEVENT
 END:VCALENDAR
