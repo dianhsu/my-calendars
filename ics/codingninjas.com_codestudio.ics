@@ -6,19 +6,19 @@ METHOD:PUBLISH
 X-WR-CALNAME:codingninjas.com_codestudio
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
+SUMMARY:Broadridge Java and C++ Developer Hiring Challenge
+DTSTART;VALUE=DATE-TIME:20220920T163000Z
+DTEND;VALUE=DATE-TIME:20220920T203000Z
+UID:BroadridgeJavaandC++DeveloperHiringChallenge@dianhsu.com
+DESCRIPTION:https://www.codingninjas.com/codestudio/contests/broadridge-ja
+ va-and-c-developer-hiring-challenge
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CodeKombat
 DTSTART;VALUE=DATE-TIME:20220920T163000Z
 DTEND;VALUE=DATE-TIME:20220921T023000Z
 UID:CodeKombat@dianhsu.com
 DESCRIPTION:https://www.codingninjas.com/codestudio/contests/codekombat
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Broadridge Java and C++ Developer Hiring Challenge
-DTSTART;VALUE=DATE-TIME:20220920T123000Z
-DTEND;VALUE=DATE-TIME:20220920T163000Z
-UID:BroadridgeJavaandC++DeveloperHiringChallenge@dianhsu.com
-DESCRIPTION:https://www.codingninjas.com/codestudio/contests/broadridge-ja
- va-and-c-developer-hiring-challenge
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Codestudio Beginner Contest 17
@@ -31,7 +31,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Scholarship Test 22 - 23rd September 2022
 DTSTART;VALUE=DATE-TIME:20220922T123000Z
-DTEND;VALUE=DATE-TIME:20220923T182800Z
+DTEND;VALUE=DATE-TIME:20220923T173000Z
 UID:ScholarshipTest22-23rdSeptember2022@dianhsu.com
 DESCRIPTION:https://www.codingninjas.com/codestudio/contests/scholarship-t
  est-23rd-september-2022

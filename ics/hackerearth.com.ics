@@ -130,6 +130,13 @@ DESCRIPTION:https://www.hackerearth.com/challenges/competitive/ballerina-c
  oding-challenge/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Build With Celo Hackathon '22. Hackathon Phase. Online
+DTSTART;VALUE=DATE-TIME:20220926T070100Z
+DTEND;VALUE=DATE-TIME:20221107T070100Z
+UID:BuildWithCeloHackathon'22.HackathonPhase.Online@dianhsu.com
+DESCRIPTION:https://build-with-celo.hackerearth.com/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Build With Celo Hackathon '22. Polished Submission Phase. Online
 DTSTART;VALUE=DATE-TIME:20220926T070100Z
 DTEND;VALUE=DATE-TIME:20221107T070100Z
