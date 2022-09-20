@@ -45,6 +45,14 @@ DESCRIPTION:https://www.codingninjas.com/codestudio/contests/codestudio-we
  ekend-contest-40
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Winsoft Java Developer Hiring Challenge
+DTSTART;VALUE=DATE-TIME:20220924T123000Z
+DTEND;VALUE=DATE-TIME:20220924T163000Z
+UID:WinsoftJavaDeveloperHiringChallenge@dianhsu.com
+DESCRIPTION:https://www.codingninjas.com/codestudio/contests/winsoft-java-
+ developer-hiring-challenge
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Codestudio Monthly Contest 6
 DTSTART;VALUE=DATE-TIME:20220925T100000Z
 DTEND;VALUE=DATE-TIME:20220925T123000Z
