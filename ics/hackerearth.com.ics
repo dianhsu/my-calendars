@@ -157,6 +157,14 @@ UID:AllThingse-Commerce-GeTSHackathon.PrototypeSubmissionPhase.Online@dian
 DESCRIPTION:https://www.hackerearth.com/challenges/hackathon/get-hack/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Flexcar Codeathon. Competitive
+DTSTART;VALUE=DATE-TIME:20221007T123000Z
+DTEND;VALUE=DATE-TIME:20221009T182500Z
+UID:FlexcarCodeathon.Competitive@dianhsu.com
+DESCRIPTION:https://www.hackerearth.com/challenges/competitive/flexcar-cod
+ eathon/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:OPPO Inspiration Cup. Competitive
 DTSTART;VALUE=DATE-TIME:20221008T123000Z
 DTEND;VALUE=DATE-TIME:20221008T124500Z
