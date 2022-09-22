@@ -20,6 +20,13 @@ UID:ДеревоФенвика@dianhsu.com
 DESCRIPTION:https://clist.by/standings/derevo-fenvika-37503028/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Оператор розгалуження
+DTSTART;VALUE=DATE-TIME:20220926T160000Z
+DTEND;VALUE=DATE-TIME:20221003T160000Z
+UID:Операторрозгалуження@dianhsu.com
+DESCRIPTION:https://clist.by/standings/operator-rozgaluzhennia-37502467/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PP1 Week 1 Introduction Part 1
 DTSTART;VALUE=DATE-TIME:20221002T195900Z
 DTEND;VALUE=DATE-TIME:20221022T195900Z
