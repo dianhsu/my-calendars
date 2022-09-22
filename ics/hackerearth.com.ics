@@ -21,6 +21,14 @@ UID:BuildWithCeloHackathon'22.IdeaSubmissionPhase.Online@dianhsu.com
 DESCRIPTION:https://build-with-celo.hackerearth.com/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ballerina Coding Challenge. Competitive
+DTSTART;VALUE=DATE-TIME:20220924T225900Z
+DTEND;VALUE=DATE-TIME:20220927T225700Z
+UID:BallerinaCodingChallenge.Competitive@dianhsu.com
+DESCRIPTION:https://www.hackerearth.com/challenges/competitive/ballerina-c
+ oding-challenge/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Build With Celo Hackathon '22. MVP Phase. Online
 DTSTART;VALUE=DATE-TIME:20220925T182900Z
 DTEND;VALUE=DATE-TIME:20221025T182900Z
@@ -113,14 +121,6 @@ DTEND;VALUE=DATE-TIME:20230420T045900Z
 UID:IBMzStudentContest.Hackathon.Contest.Online@dianhsu.com
 DESCRIPTION:https://www.hackerearth.com/challenges/hackathon/ibm-z-student
  -contest-2022/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ballerina Coding Challenge. Competitive
-DTSTART;VALUE=DATE-TIME:20220921T230100Z
-DTEND;VALUE=DATE-TIME:20220924T225900Z
-UID:BallerinaCodingChallenge.Competitive@dianhsu.com
-DESCRIPTION:https://www.hackerearth.com/challenges/competitive/ballerina-c
- oding-challenge/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Build With Celo Hackathon '22. Hackathon Phase. Online
