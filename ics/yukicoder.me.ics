@@ -6,10 +6,10 @@ METHOD:PUBLISH
 X-WR-CALNAME:yukicoder.me
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:yukicoder contest
+SUMMARY:yukicoder contest 361
 DTSTART;VALUE=DATE-TIME:20220923T122000Z
 DTEND;VALUE=DATE-TIME:20220923T142000Z
-UID:yukicodercontest@dianhsu.com
+UID:yukicodercontest361@dianhsu.com
 DESCRIPTION:https://yukicoder.me/contests/402
 END:VEVENT
 BEGIN:VEVENT
