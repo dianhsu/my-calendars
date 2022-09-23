@@ -30,6 +30,13 @@ DESCRIPTION:https://clist.by/standings/coderoyale-2022-ai-sandbox-36072795
  /
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Цифровой прорыв | DS [ml]. Раунд 2
+DTSTART;VALUE=DATE-TIME:20220923T130000Z
+DTEND;VALUE=DATE-TIME:20220925T170000Z
+UID:Цифровойпрорыв|DS[ml].Раунд2@dianhsu.com
+DESCRIPTION:https://cups.online/rounds/745
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Всероссийская олимпиада по ИИ - 2022 [ai
  ]. Отборочный этап
 DTSTART;VALUE=DATE-TIME:20220926T060000Z
