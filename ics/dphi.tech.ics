@@ -6,11 +6,12 @@ METHOD:PUBLISH
 X-WR-CALNAME:dphi.tech
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:Data Sprint 91
+SUMMARY:Data Sprint 91 - Pharmaceutical Drug Recognition
 DTSTART;VALUE=DATE-TIME:20220923T153000Z
 DTEND;VALUE=DATE-TIME:20221003T153000Z
-UID:DataSprint91@dianhsu.com
-DESCRIPTION:https://dphi.tech/challenges/data-sprint-91/296/
+UID:DataSprint91-PharmaceuticalDrugRecognition@dianhsu.com
+DESCRIPTION:https://dphi.tech/challenges/data-sprint-91-pharmaceutical-dru
+ g-recognition/296/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Data Sprint 92
