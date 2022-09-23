@@ -6,14 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:hackerearth.com
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:September Circuits '22. Competitive. Rated contest
-DTSTART;VALUE=DATE-TIME:20220923T160000Z
-DTEND;VALUE=DATE-TIME:20220930T160000Z
-UID:SeptemberCircuits'22.Competitive.Ratedcontest@dianhsu.com
-DESCRIPTION:https://clist.by/standings/september-circuits-22-competitive-r
- ated-contest-37389503/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ballerina Coding Challenge. Competitive
 DTSTART;VALUE=DATE-TIME:20220924T225900Z
 DTEND;VALUE=DATE-TIME:20220927T225700Z
