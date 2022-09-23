@@ -62,10 +62,10 @@ DESCRIPTION:https://www.codingninjas.com/codestudio/contests/internship-dr
  ive
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SupplyNote Full Stack Developer Hiring Challenge
+SUMMARY:SupplyNote Python Developer Hiring Challenge
 DTSTART;VALUE=DATE-TIME:20220930T123000Z
 DTEND;VALUE=DATE-TIME:20220930T163000Z
-UID:SupplyNoteFullStackDeveloperHiringChallenge@dianhsu.com
+UID:SupplyNotePythonDeveloperHiringChallenge@dianhsu.com
 DESCRIPTION:https://www.codingninjas.com/codestudio/contests/supplynote-fu
  ll-stack-developer-hiring-challenge
 END:VEVENT

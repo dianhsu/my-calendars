@@ -14,13 +14,6 @@ DESCRIPTION:https://clist.by/standings/september-circuits-22-competitive-r
  ated-contest-37389503/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Build With Celo Hackathon '22. Idea Submission Phase. Online
-DTSTART;VALUE=DATE-TIME:20220924T182900Z
-DTEND;VALUE=DATE-TIME:20221023T182900Z
-UID:BuildWithCeloHackathon'22.IdeaSubmissionPhase.Online@dianhsu.com
-DESCRIPTION:https://build-with-celo.hackerearth.com/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ballerina Coding Challenge. Competitive
 DTSTART;VALUE=DATE-TIME:20220924T225900Z
 DTEND;VALUE=DATE-TIME:20220927T225700Z
@@ -48,6 +41,13 @@ DTSTART;VALUE=DATE-TIME:20220925T235900Z
 DTEND;VALUE=DATE-TIME:20221015T235900Z
 UID:MoMoHackathon2022.Phasedesoumissionduprototype.Online@dianhsu.com
 DESCRIPTION:https://momo2022fr.hackerearth.com/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Build With Celo Hackathon '22. Idea Submission Phase. Online
+DTSTART;VALUE=DATE-TIME:20220926T065900Z
+DTEND;VALUE=DATE-TIME:20221026T065900Z
+UID:BuildWithCeloHackathon'22.IdeaSubmissionPhase.Online@dianhsu.com
+DESCRIPTION:https://build-with-celo.hackerearth.com/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Shell.ai Hackathon. Competitive
