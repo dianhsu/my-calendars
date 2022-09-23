@@ -46,6 +46,14 @@ DESCRIPTION:https://www.codingninjas.com/codestudio/contests/credable-hiri
  ng-challenge
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:RBE- Revolution by Education React Native Developer Challenge
+DTSTART;VALUE=DATE-TIME:20220928T123000Z
+DTEND;VALUE=DATE-TIME:20220928T163000Z
+UID:RBE-RevolutionbyEducationReactNativeDeveloperChallenge@dianhsu.com
+DESCRIPTION:https://www.codingninjas.com/codestudio/contests/rbe-revolutio
+ n-by-education-react-native-developer-challenge
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Internship Drive
 DTSTART;VALUE=DATE-TIME:20220929T123000Z
 DTEND;VALUE=DATE-TIME:20220929T163000Z
