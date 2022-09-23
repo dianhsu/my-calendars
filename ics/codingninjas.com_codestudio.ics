@@ -6,22 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:codingninjas.com_codestudio
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:Codestudio Weekend Contest 40
-DTSTART;VALUE=DATE-TIME:20220923T170000Z
-DTEND;VALUE=DATE-TIME:20220923T183000Z
-UID:CodestudioWeekendContest40@dianhsu.com
-DESCRIPTION:https://www.codingninjas.com/codestudio/contests/codestudio-we
- ekend-contest-40
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Scholarship Test 22 - 23rd September 2022
-DTSTART;VALUE=DATE-TIME:20220923T173000Z
-DTEND;VALUE=DATE-TIME:20220924T223000Z
-UID:ScholarshipTest22-23rdSeptember2022@dianhsu.com
-DESCRIPTION:https://www.codingninjas.com/codestudio/contests/scholarship-t
- est-23rd-september-2022
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Winsoft Java Developer Hiring Challenge
 DTSTART;VALUE=DATE-TIME:20220924T123000Z
 DTEND;VALUE=DATE-TIME:20220924T163000Z
@@ -68,5 +52,13 @@ DTEND;VALUE=DATE-TIME:20220930T163000Z
 UID:SupplyNotePythonDeveloperHiringChallenge@dianhsu.com
 DESCRIPTION:https://www.codingninjas.com/codestudio/contests/supplynote-fu
  ll-stack-developer-hiring-challenge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Codestudio Weekend Contest 41
+DTSTART;VALUE=DATE-TIME:20220930T153000Z
+DTEND;VALUE=DATE-TIME:20220930T170000Z
+UID:CodestudioWeekendContest41@dianhsu.com
+DESCRIPTION:https://www.codingninjas.com/codestudio/contests/codestudio-we
+ ekend-contest-41
 END:VEVENT
 END:VCALENDAR
