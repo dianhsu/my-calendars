@@ -6,14 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:codingninjas.com_codestudio
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:Winsoft Java Developer Hiring Challenge
-DTSTART;VALUE=DATE-TIME:20220924T163000Z
-DTEND;VALUE=DATE-TIME:20220924T203000Z
-UID:WinsoftJavaDeveloperHiringChallenge@dianhsu.com
-DESCRIPTION:https://www.codingninjas.com/codestudio/contests/winsoft-java-
- developer-hiring-challenge
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Codestudio Monthly Contest 6
 DTSTART;VALUE=DATE-TIME:20220925T100000Z
 DTEND;VALUE=DATE-TIME:20220925T123000Z
