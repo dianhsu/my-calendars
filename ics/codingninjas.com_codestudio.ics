@@ -61,4 +61,12 @@ UID:CodestudioWeekendContest41@dianhsu.com
 DESCRIPTION:https://www.codingninjas.com/codestudio/contests/codestudio-we
  ekend-contest-41
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Codestudio Beginner Contest 18
+DTSTART;VALUE=DATE-TIME:20221005T153000Z
+DTEND;VALUE=DATE-TIME:20221005T170000Z
+UID:CodestudioBeginnerContest18@dianhsu.com
+DESCRIPTION:https://www.codingninjas.com/codestudio/contests/codestudio-be
+ ginner-contest-18
+END:VEVENT
 END:VCALENDAR
