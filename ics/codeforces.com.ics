@@ -22,10 +22,10 @@ DESCRIPTION:https://clist.by/standings/icpc-2022-online-challenge-powered-
  by-huawei-problem-2-36993335/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pinely Codeforces Round 1 (Div. 1 + Div. 2)
+SUMMARY:Codeforces Round #823 (Div. 2)
 DTSTART;VALUE=DATE-TIME:20220925T143500Z
 DTEND;VALUE=DATE-TIME:20220925T170500Z
-UID:PinelyCodeforcesRound1(Div.1+Div.2)@dianhsu.com
+UID:CodeforcesRound#823(Div.2)@dianhsu.com
 DESCRIPTION:http://codeforces.com/contests/1730
 END:VEVENT
 BEGIN:VEVENT
