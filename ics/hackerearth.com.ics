@@ -7,8 +7,8 @@ X-WR-CALNAME:hackerearth.com
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 SUMMARY:Ballerina Coding Challenge. Competitive
-DTSTART;VALUE=DATE-TIME:20220924T225900Z
-DTEND;VALUE=DATE-TIME:20220927T225700Z
+DTSTART;VALUE=DATE-TIME:20220924T230100Z
+DTEND;VALUE=DATE-TIME:20220927T230100Z
 UID:BallerinaCodingChallenge.Competitive@dianhsu.com
 DESCRIPTION:https://www.hackerearth.com/challenges/competitive/ballerina-c
  oding-challenge/
