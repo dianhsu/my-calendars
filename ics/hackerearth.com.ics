@@ -6,14 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:hackerearth.com
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:Ballerina Coding Challenge. Competitive
-DTSTART;VALUE=DATE-TIME:20220924T230100Z
-DTEND;VALUE=DATE-TIME:20220927T230100Z
-UID:BallerinaCodingChallenge.Competitive@dianhsu.com
-DESCRIPTION:https://www.hackerearth.com/challenges/competitive/ballerina-c
- oding-challenge/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Build With Celo Hackathon '22. MVP Phase. Online
 DTSTART;VALUE=DATE-TIME:20220925T182900Z
 DTEND;VALUE=DATE-TIME:20221025T182900Z
